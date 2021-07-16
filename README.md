@@ -1,4 +1,4 @@
-# Trybe :rocket: Exercicios
+# Trybe Exercises
 
 Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linkedin.com/in/annie-haurani-4237a61a0/) fiz durante o curso da [Trybe](https://www.betrybe.com/)! :rocket:
 
