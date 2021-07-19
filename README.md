@@ -14,5 +14,5 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 2: Git & GitHub
 
 - [X] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
+- [X] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
