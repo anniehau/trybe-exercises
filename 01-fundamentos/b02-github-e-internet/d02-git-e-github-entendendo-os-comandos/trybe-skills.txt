@@ -4,10 +4,3 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 
-O que eu vou aprender na Trybe:
-
-- Javascript
-- Python
-- HTML
-- CSS
-- Github
