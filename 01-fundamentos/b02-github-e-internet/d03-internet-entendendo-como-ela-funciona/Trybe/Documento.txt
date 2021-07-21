@@ -1,0 +1,14 @@
+Nome: [Post-it][Sala14][Proxy]
+Cliente = Web Browser
+Web Browser = Chrome, Firefox (etc)
+
+1 - Você escreve o nome do dominio (nesse caso, www.google.com) no seu cliente e manda a solicitação
+2 - Ele procura no DNS o IP do dominio, que envia uma requisição HTTP para o proxy, que serve como o intermediário entre o cliente e servidor
+3 - Caso tenha um balanceador de cargas, ele gerencia qual servidor está disponivel para receber a informação e distribui
+3 - O servidor, que armazena as informações do site, processa a informação recibida e devolve uma pagina ao cliente
+4 - O servidor envia a resposta via HTTP, como o header e o body
+
+Erros:
+- HTTPS é do google, não HTTP
+- Adicionar os passos físicos e etc antes
+- Pacotes

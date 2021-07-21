@@ -1,0 +1,5 @@
+OBSERVAÇÕES
+
+Boa noite, eu sou a Annie representando o Grupo 14, nome Proxy!
+
+Vamos lá, o que acontece quando você acessa o google? Bom, quando você digita no seu cliente (seu Web Browser, seja Chrome ou Firefox etc), "www.google.com" e aperta enter, seu cliente e seu sistema operacional faz a pergunta: "Nós temos o IP do domain?" e caso não tenha, ele procura pelo IP do domain na DNS e retorna ao cliente. Logo depois, o cliente envia uma solicitação do tipo HTTPS Get ao servidor com as informações pedidas. Isso passa por vários IPs proxies no meio do caminho, que servem como conexões intermediárias físicas entre o cliente e o servidor. Ao chegar no servidor e passando pela porta, ele processa a informação e o IP que enviou a solicitação, e se tudo der certo retorna um 200 OK com o resultado HTTPS ao cliente. O cliente processa esse resultado utilizando sua engine de renderização e mostra na tela os visuais retornado pelo servidor.
