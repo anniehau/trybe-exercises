@@ -4,24 +4,45 @@
     <meta charset="UTF-8">
     <title>HTML</title>
     <style>
-        h1 {
-            text-size-adjust: 65;
-            color: orange;
-        }
+      h1 {
+        font-family: sans-serif;
+        color: orange;
+      }
 
-        .fav-color {
-            background-color:yellow;
-        }
+      .fav-color {
+        background-color:yellow;
+      }
+
+      body {
+        font-size: 16px;
+      }
+
+      #paragraph {
+        font-weight:600;
+        font-size:3em;
+      }
+
+      #rosa {
+        background-color:pink
+      }
+
+      #azul {
+        background-color:lightblue;
+      }
+
+      #vermelho {
+        background-color: crimson;
+      }
 
     </style>
   </head>
   <body>
     <h1>Exercícios 3.2</h1>
-    <p class="fav-color">Qual é a sua cor favorita?</p>
+    <p id="paragraph" class="fav-color">Qual é a sua cor favorita?</p>
     <ul class="fav-color">
-      <li>Rosa</li>
-      <li>Azul</li>
-      <li>Vermelho</li>
+      <li id="rosa">Rosa Pastel</li>
+      <li id="azul">Azul Claro</li>
+      <li id="vermelho">Vermelho</li>
     </ul>
   </body>
 </html>
