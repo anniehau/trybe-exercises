@@ -1,0 +1,48 @@
+div:hover {
+    border-style: solid;
+}
+
+#div1 {
+    border-color: red;
+}
+
+#h3-1 {
+    color: red;
+}
+
+#div2 {
+    border-color: blue;
+}
+
+#h3-2 {
+    color: blue;
+}
+
+#div3 {
+    border-color: green;
+    border-width: 5px;
+}
+
+#h3-3 {
+    color: green;
+}
+
+#div4 {
+    border-color: darkred;
+}
+
+#h3-4 {
+    color: darkred;
+}
+
+#div5 {
+    border-color: darkblue;
+}
+
+#h3-5 {
+    color: darkblue;
+}
+
+#h3-1, #h3-3, #h3-5 {
+    font-style: italic;
+}
