@@ -1,0 +1,40 @@
+ol {
+    background-color: yellow;
+}
+
+li.even {
+    color: green; 
+}
+
+li.odd {
+    text-transform: uppercase;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+h1 em, h2 em, h3 em  {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.java {
+    background: pink;
+}
+
+.programming li:nth-child(-n+3) {
+    color: blue;
+}
+
+.allies:hover {
+    font-style: bold;
+}
