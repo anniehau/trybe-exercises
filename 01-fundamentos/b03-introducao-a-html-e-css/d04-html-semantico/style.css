@@ -1,0 +1,41 @@
+/* Tags */
+
+
+/* Seções */
+
+/* Elementos */
+img.fatos-olhos, img.fatos-habitat {
+    width: 200px;
+    height: 150px;
+    margin-right: 30px;
+    float: left;
+    object-fit: cover;
+    border-radius: 5%;
+    background-color: black;
+    padding: 2px;
+  }
+  
+  img.fatos-cores, img.fatos-tamanho {
+    width: 200px;
+    height: 150px;
+    margin-right: 60px;
+    margin-left: 20px;
+    float: right;
+    object-fit: cover;
+    border-radius: 5%;
+    background-color: black;
+    padding: 2px;
+  }
+  
+  li.fatos-cores, p.fatos-cores, li.fatos-tamanho, p.fatos-tamanho {
+    text-align: right;
+    list-style-position: inside;
+  }
+  
+  li.fatos-olhos, li.fatos-habitat, li.fatos-cores, li.fatos-tamanho {
+    font-size: 18px;
+  }
+
+  p.fatos-olhos, p.fatos-habitat, p.fatos-cores, p.fatos-tamanho {
+    height: 120px;
+  }
