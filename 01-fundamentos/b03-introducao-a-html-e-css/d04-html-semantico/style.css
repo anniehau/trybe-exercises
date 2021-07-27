@@ -1,41 +1,117 @@
 /* Tags */
+body {
+  font-family: 'STIX Two MAth';
+}
 
+table {
+  margin-bottom: 25px;
+}
+
+table th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+header {
+  text-align: center;
+  display: inline;
+  font-size: 18px;
+}
+
+header ul {
+  margin-top: 5px;
+}
+
+header li {
+  list-style-type: none;
+  display: inline;
+}
+
+footer {
+  text-align: center;
+}
+
+footer li, footer ul {
+  display: inline;
+  width: auto;
+}
+
+article {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+article img {
+  float: left;
+  margin-right: 15px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+h1 {
+  margin-bottom: 0px
+}
+
+h2 {
+  display: inline;
+  background-color: #FFABD5;
+  margin-bottom: 2px;
+  margin-right: 78%;
+}
+
+h3 {
+  display: inline;
+  background-color: #FFABD5;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
 
 /* Seções */
 
-/* Elementos */
-img.fatos-olhos, img.fatos-habitat {
-    width: 200px;
-    height: 150px;
-    margin-right: 30px;
-    float: left;
-    object-fit: cover;
-    border-radius: 5%;
-    background-color: black;
-    padding: 2px;
-  }
-  
-  img.fatos-cores, img.fatos-tamanho {
-    width: 200px;
-    height: 150px;
-    margin-right: 60px;
-    margin-left: 20px;
-    float: right;
-    object-fit: cover;
-    border-radius: 5%;
-    background-color: black;
-    padding: 2px;
-  }
-  
-  li.fatos-cores, p.fatos-cores, li.fatos-tamanho, p.fatos-tamanho {
-    text-align: right;
-    list-style-position: inside;
-  }
-  
-  li.fatos-olhos, li.fatos-habitat, li.fatos-cores, li.fatos-tamanho {
-    font-size: 18px;
-  }
 
-  p.fatos-olhos, p.fatos-habitat, p.fatos-cores, p.fatos-tamanho {
-    height: 120px;
-  }
+/* Elementos */
+.fatos-olhos img, .fatos-habitat img {
+  width: 200px;
+  height: 150px;
+  margin-right: 30px;
+  float: left;
+  object-fit: cover;
+  border-radius: 5%;
+  background-color: black;
+  padding: 2px;
+}
+  
+.fatos-cores img, .fatos-tamanho img {
+  width: 200px;
+  height: 150px;
+  margin-right: 60px;
+  margin-left: 20px;
+  float: right;
+  object-fit: cover;
+  border-radius: 5%;
+  background-color: black;
+  padding: 2px;
+}
+  
+.fatos-cores li, .fatos-cores p, .fatos-tamanho li, .fatos-tamanho p {
+  text-align: right;
+  list-style-position: inside;
+}
+  
+.fatos-olhos li, .fatos-habitat li, .fatos-cores li, .fatos-tamanho li {
+  font-size: 18px;
+}
+
+.fatos-olhos p, .fatos-habitat p, .fatos-cores p, .fatos-tamanho p {
+  height: 120px;
+}
+
+.center h2 {
+  background-color: #FFABD5;
+  display: block;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
