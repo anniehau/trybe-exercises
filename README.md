@@ -23,7 +23,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/anniehau/trybe-projects)_
+- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/anniehau/trybe-projects/tree/main/3-5-lessons-learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
