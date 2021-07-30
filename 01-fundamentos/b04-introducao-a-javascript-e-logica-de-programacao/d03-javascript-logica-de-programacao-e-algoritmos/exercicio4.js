@@ -1,5 +1,5 @@
 // Fazer uma pirâmide de asteriscos
-let n = 6;
+let n = 5;
 let triangulo = [];
 
 //Cria a pirâmide usando dois fors: um para o lado esquerdo e outro para o direito
@@ -17,7 +17,8 @@ for (let i = 0; i < n; i += 1) {
   }
 }
 
-//Imprime o triângulo
+//Imprime a pirâmide
+console.log("Abaixo está uma pirâmide, do número de sua escolha :D");
 for (i = 0; i < n; i += 1) {
   console.log(triangulo[i]);
 }
