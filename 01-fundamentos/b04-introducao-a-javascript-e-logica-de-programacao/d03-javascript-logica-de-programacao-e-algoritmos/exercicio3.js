@@ -15,6 +15,7 @@ for (let i = 0; i < n; i += 1) {
 }
 
 //Imprime o triângulo
+console.log("Abaixo está um triângulo alinhado na direita, do número de sua escolha :D");
 for (i = 0; i < n; i += 1) {
   console.log(triangulo[i]);
 }

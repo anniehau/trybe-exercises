@@ -7,8 +7,11 @@ for (let i = 0; i < n; i += 1) {
   quadrado.push("*");
   for(let i2 = 2; i2 <= n; i2 += 1) {
     quadrado[i] += ("*");
-    if (i2 === n) {
-      console.log(quadrado[i]);
-    }
   }
+}
+
+//Imprime o quadrado
+console.log("Abaixo está um quadrado, do número de sua escolha :D");
+for (i = 0; i < n; i += 1) {
+  console.log(quadrado[i]);
 }
