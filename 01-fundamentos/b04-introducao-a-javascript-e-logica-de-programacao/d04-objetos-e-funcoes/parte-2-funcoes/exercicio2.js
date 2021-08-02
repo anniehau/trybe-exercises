@@ -9,6 +9,7 @@ function maiorValor(array) {
       resultIndex = index;
     }
   }
+  
   return resultIndex;
 }
 
