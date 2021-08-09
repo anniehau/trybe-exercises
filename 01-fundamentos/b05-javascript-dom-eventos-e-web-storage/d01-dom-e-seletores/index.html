@@ -47,6 +47,9 @@
       document.getElementsByTagName("section")[0].style = "background-color: white";
       document.getElementsByTagName("h1")[0].innerText = "Exercício 5.1 - JavaScript";
       document.getElementsByTagName("p")[0].style = "text-transform: uppercase;"
+      for (let i = 0; i < document.getElementsByTagName("p").length; i += 1) {
+        console.log(document.getElementsByTagName("p")[i].innerText);
+      }
         /*
         Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
         - document.getElementById()
