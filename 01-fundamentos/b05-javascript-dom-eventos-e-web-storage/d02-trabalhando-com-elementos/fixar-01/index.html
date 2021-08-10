@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <main id="paiDoPai">
+    <section id="pai">
+      <section id="primeiroFilho"></section>
+      <section id="elementoOndeVoceEsta">
+        <section id="primeiroFilhoDoFilho"></section>
+        <section id="segundoEUltimoFilhoDoFilho"></section>
+      </section>
+      Atenção!
+      <section id="terceiroFilho"></section>
+      <section id="quartoEUltimoFilho"></section>
+    </section>
+  </main>
+  <script>
+    document.getElementById('elementoOndeVoceEsta').parentNode.style = "color: green";
+    document.getElementById('primeiroFilhoDoFilho').innerText = "Novo texto!";
+    document.getElementById('pai').firstChild;
+    document.getElementById('elementoOndeVoceEsta').nextSibling;
+    document.getElementById('elementoOndeVoceEsta').nextElementSibling;
+    document.getElementById('pai').lastElementChild.previousElementSibling
+    
+    let vouCriar = document.createElement('section');
+    let vouCriarParent = document.getElementById('elementoOndeVoceEsta');
+    
+    vouCriar.innerText = "Eu criei esse texto com Javascript!"
+    vouCriarParent.appendChild(vouCriar);
+
+    let queroCriar = document.createElement('section');
+    
+    queroCriar.innerText = "Eu também criei esse texto com JavaScript!";
+    vouCriarParent.appendChild(queroCriar);
+
+    let intencaoDeCriar = document.createElement('section');
+    intencaoDeCriarParent = document.getElementById('primeiroFilhoDoFilho');
+
+    intencaoDeCriar.innerText = "Outro texto que criei usando JavaScript!";
+    intencaoDeCriar.id = "criado"
+    intencaoDeCriarParent.appendChild(intencaoDeCriar);
+
+    document.getElementById('criado').parentNode.parentNode.nextElementSibling;
+    let childElements = document.querySelector('#paiDoPai').children;
+    let parentOfAll = document.querySelector('#paiDoPai');
+
+    for(let i = 0; i < childElements.length; i += 1) {
+      let element = childElements[i];
+
+      if (!element.id.includes('pai') && !element.id.includes('elementoOndeVoceEsta') && !element.id.includes('primeiroFilhoDoFilho')) {
+        parentOfAll.removeChild(element);
+      }
+    }
+
+
+  </script>
+</body>
+</html>
