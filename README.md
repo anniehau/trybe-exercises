@@ -23,7 +23,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/anniehau/trybe-projects/tree/main/3-5-lessons-learned)_
+- [X] 3-5: _[Projeto - Lessons Learned](https://github.com/anniehau/trybe-projects/tree/main/3-5-lessons-learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -31,4 +31,14 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions]()_
+
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+
+- [X] 5-1: _JavaScript - DOM e seletores_
+- [] 5-2: _JavaScript - Trabalhando com elementos_
+- [] 5-3: _JavaScript - Eventos_
+- [] 5-4: _JavaScript - Web Storage_
+- [] 5-5: _[Projeto - Arte com Pixels]()_
+- [] 5-6: _[Projeto - Lista de Tarefas]()_
+- [] 5-7: _[Projetos Bonus]()_
