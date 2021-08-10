@@ -36,9 +36,9 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - [X] 5-1: _JavaScript - DOM e seletores_
-- [] 5-2: _JavaScript - Trabalhando com elementos_
-- [] 5-3: _JavaScript - Eventos_
-- [] 5-4: _JavaScript - Web Storage_
-- [] 5-5: _[Projeto - Arte com Pixels]()_
-- [] 5-6: _[Projeto - Lista de Tarefas]()_
-- [] 5-7: _[Projetos Bonus]()_
+- [ ] 5-2: _JavaScript - Trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[Projeto - Lista de Tarefas]()_
+- [ ] 5-7: _[Projetos Bonus]()_
