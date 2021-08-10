@@ -46,6 +46,17 @@
     intencaoDeCriarParent.appendChild(intencaoDeCriar);
 
     document.getElementById('criado').parentNode.parentNode.nextElementSibling;
+    let childElements = document.querySelector('#paiDoPai').children;
+    let parentOfAll = document.querySelector('#paiDoPai');
+
+    for(let i = 0; i < childElements.length; i += 1) {
+      let element = childElements[i];
+
+      if (!element.id.includes('pai') && !element.id.includes('elementoOndeVoceEsta') && !element.id.includes('primeiroFilhoDoFilho')) {
+        parentOfAll.removeChild(element);
+      }
+    }
+
 
   </script>
 </body>
