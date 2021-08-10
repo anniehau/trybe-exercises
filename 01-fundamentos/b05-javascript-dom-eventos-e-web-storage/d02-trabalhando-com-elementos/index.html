@@ -64,12 +64,12 @@
 
       // 2 - Adicione a tag main com a classe main-content como filho da tag body ;
       let main = document.createElement('main');
-      main.class = 'main-content';
+      main.classList.add('main-content');
       document.body.appendChild(main);
 
       // 3 - Adicione a tag section com a classe center-content como filho da tag main criada no passo 2;
       let section_1 = document.createElement('section');
-      section_1.class = 'center-content';
+      section_1.classList.add('center-content');
       main.appendChild(section_1);
 
       // 4 - Adicione a tag p como filho do section criado no passo 3 e coloque algum texto;
@@ -79,18 +79,18 @@
 
       // 5 - Adicione a tag section com a classe left-content como filho da tag main criada no passo 2;
       let section_2 = document.createElement('section');
-      section_2.class = 'left-content';
+      section_2.classList.add('left-content');
       main.appendChild(section_2);
 
       // 6 - Adicione a tag section com a classe right-content como filho da tag main criada no passo 2;
       let section_3 = document.createElement('section');
-      section_3.class = 'right-content';
+      section_3.classList.add('right-content');
       main.appendChild(section_3);
 
       // 7 - Adicione uma imagem com src configurado para o valor https://picsum.photos/200 e classe small-image . Esse elemento deve ser filho do section criado no passo 5;
       let img = document.createElement('img');
       img.src = 'https://picsum.photos/200';
-      img.class = 'small-image';
+      img.classList.add('small-image');
       section_2.appendChild(img);
 
       // 8 - Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um , dois , três , ... como valores da lista. Essa lista deve ser filha do section criado no passo 6;
@@ -111,13 +111,17 @@
       // --- Agora que você criou muita coisa, vamos fazer algumas alterações e remoções -- //
 
       // 1 - Adicione a classe title na tag h1 criada;
-      h1.class = 'title';
+      h1.classList.add = 'title';
 
       // 2 - Adicione a classe description nas 3 tags h3 criadas;
-      h3_1.class = 'description'; h3_2.class = 'description'; h3_3.class = 'description';
+      h3_1.classList.add('description'); h3_2.classList.add('description'); h3_3.classList.add('description');
 
       // 3 - Remova a section criado no passo 5 (aquele que possui a classe left-content ). Utilize a função .removeChild() ;
       main.removeChild(section_2);
+
+      // 4 - Centralize a section criado no passo 6 (aquele que possui a classe right-content ). Dica: para centralizar, basta configurar o margin-right: auto da section ;
+      section_3.style = 'margin-right: auto;';
+
     </script>
   </body>
 </html>
