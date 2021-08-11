@@ -41,15 +41,3 @@ function makeDays() {
 }
 
 makeDays()
-
-// Exercicio 2
-function createButton(buttonName) {
-  let newElement = document.createElement('button');
-
-  newElement.id = 'btn-holiday';
-  newElement.innerHTML = buttonName;
-
-  document.querySelector('.buttons-container').appendChild(newElement);
-}
-
-createButton('Feriados');
