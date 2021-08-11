@@ -88,6 +88,10 @@ label {
   width: 35px;
 }
 
+.selected {
+  filter: brightness(30%);
+}
+
 .my-tasks div:hover {
   height: 45px;
   width: 45px;
