@@ -125,17 +125,17 @@ buttonFunction_2();
 let days = document.querySelectorAll('.day');
 
 for (day of days) {
-  day.addEventListener('mouseover', handleZoom)
-  day.addEventListener('mouseout', handleUnzoom)
+  day.addEventListener('mouseover', handleZoom);
+  day.addEventListener('mouseout', handleUnzoom);
 }
 
 function handleZoom(event) {
-  event.target.style = 'transition: font-size .1s'
+  event.target.style.transition = 'font-size .1s'
   event.target.style.fontSize = '150%';
 }
 
 function handleUnzoom(event) {
-  event.target.style = 'transition: font-size .1s'
+  event.target.style.transition = 'font-size .1s'
   event.target.style.fontSize = '';
 }
 
@@ -171,4 +171,23 @@ function handleDivClick(event) {
   } else {
     event.target.classList.remove('selected');
   }
+
+}
+
+// Exercicio 10
+for (day of days) {
+  day.addEventListener('click', handleDayClick);
+}
+
+function handleDayClick(event) {
+  let selectedTask = document.querySelector('.selected');
+
+  if (event.target.style.color === '' && selectedTask != null) {
+    event.target.style.color = selectedTask.style.backgroundColor;
+    console.log(event.target.style.color)
+  } else if (selectedTask != null) {
+    event.target.style.color = ''
+    console.log(event.target.style.color)
+  }
+
 }
