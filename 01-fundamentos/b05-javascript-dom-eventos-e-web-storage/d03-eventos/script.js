@@ -146,4 +146,15 @@ function addToDo(string) {
   document.querySelector('.my-tasks').appendChild(newElement);
 }
 
-addToDo('cozinhar')
+addToDo('Cozinhar')
+
+// Exercicio 8
+function addToDoDiv(color) {
+  let newElement = document.createElement('div');
+  newElement.style.backgroundColor = color;
+  newElement.classList.add = 'task';
+  document.querySelector('.my-tasks').appendChild(newElement);
+}
+
+addToDoDiv('red')
+
