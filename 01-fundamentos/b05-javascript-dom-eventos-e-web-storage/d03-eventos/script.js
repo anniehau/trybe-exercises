@@ -120,3 +120,21 @@ function buttonFunction_2() {
 }
 
 buttonFunction_2();
+
+// Exercicio 6
+let days = document.querySelectorAll('.day');
+
+for (day of days) {
+  day.addEventListener('mouseover', handleZoom)
+  day.addEventListener('mouseout', handleUnzoom)
+}
+
+function handleZoom(event) {
+  event.target.style = 'transition: font-size .1s'
+  event.target.style.fontSize = '150%';
+}
+
+function handleUnzoom(event) {
+  event.target.style = 'transition: font-size .1s'
+  event.target.style.fontSize = '';
+}
