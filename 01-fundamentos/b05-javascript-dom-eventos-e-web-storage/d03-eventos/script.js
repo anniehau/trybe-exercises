@@ -152,9 +152,23 @@ addToDo('Cozinhar')
 function addToDoDiv(color) {
   let newElement = document.createElement('div');
   newElement.style.backgroundColor = color;
-  newElement.classList.add = 'task';
+  newElement.classList.add('task');
   document.querySelector('.my-tasks').appendChild(newElement);
 }
 
 addToDoDiv('red')
 
+// Exercicio 9
+let tasks = document.querySelectorAll('.task');
+
+for (task of tasks) {
+  task.addEventListener('click', handleDivClick);
+}
+
+function handleDivClick(event) {
+  if (!event.target.classList.contains('selected')) {
+    event.target.classList.add('selected');
+  } else {
+    event.target.classList.remove('selected');
+  }
+}
