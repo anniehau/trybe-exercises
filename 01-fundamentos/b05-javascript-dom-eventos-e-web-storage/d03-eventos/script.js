@@ -138,3 +138,12 @@ function handleUnzoom(event) {
   event.target.style = 'transition: font-size .1s'
   event.target.style.fontSize = '';
 }
+
+// Exercicio 7
+function addToDo(string) {
+  let newElement = document.createElement('span');
+  newElement.innerText = string;
+  document.querySelector('.my-tasks').appendChild(newElement);
+}
+
+addToDo('cozinhar')
