@@ -43,7 +43,7 @@ function makeDays() {
 makeDays()
 
 // Exercicio 2
-function createButton(buttonName) {
+function makeButton_1(buttonName) {
   let newElement = document.createElement('button');
 
   newElement.id = 'btn-holiday';
@@ -52,10 +52,10 @@ function createButton(buttonName) {
   document.querySelector('.buttons-container').appendChild(newElement);
 }
 
-createButton('Feriados');
+makeButton_1('Feriados');
 
 // Exercicio 3
-function buttonFunction() {
+function buttonFunction_1() {
   document.querySelector('#btn-holiday').addEventListener('click', handleClick);
   
   function handleClick() {
@@ -75,4 +75,16 @@ function buttonFunction() {
   }
 }
 
-buttonFunction();
+buttonFunction_1();
+
+// Exercicio 4
+function makeButton_2(buttonName) {
+  let newElement = document.createElement('button');
+
+  newElement.id = 'btn-friday';
+  newElement.innerHTML = buttonName;
+
+  document.querySelector('.buttons-container').appendChild(newElement);
+}
+
+makeButton_2('Sexta-feira');
