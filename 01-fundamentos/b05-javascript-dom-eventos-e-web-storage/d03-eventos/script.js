@@ -63,13 +63,17 @@ function buttonFunction_1() {
     
     for (let i = 0; i < holidays.length; i++) {
       let day = holidays[i];
-
-      if (day.style.backgroundColor === 'red') {
-        day.style.backgroundColor = 'rgb(238,238,238)';
-        day.style.color = '';
-      }  else {
+      
+      if (!day.classList.contains('holidayOn')){
         day.style.backgroundColor = 'red';
         day.style.color = 'white';
+        day.classList.add('holidayOn');
+      } else if (day.classList.contains('holidayOn') && !day.classList.contains('fridayOn')) {
+        day.style.backgroundColor = 'rgb(238,238,238)';
+        day.style.color = '';
+        day.classList.remove('holidayOn');
+      } else if (day.classList.contains('fridayOn')) {
+        day.classList.remove('holidayOn');
       }
     }
   }
@@ -88,3 +92,31 @@ function makeButton_2(buttonName) {
 }
 
 makeButton_2('Sexta-feira');
+
+// Exercicio 5
+
+function buttonFunction_2() {
+  document.querySelector('#btn-friday').addEventListener('click', handleClick);
+
+  function handleClick() {
+    let friday = document.querySelectorAll('.friday');
+
+    for (let i = 0; i < friday.length; i++) {
+      let day = friday[i];
+
+      if (!day.classList.contains('fridayOn')) {
+        day.style.backgroundColor = 'red';
+        day.style.color = 'white';
+        day.classList.add('fridayOn');
+      } else if (day.classList.contains('fridayOn') && !day.classList.contains('holidayOn')) {
+        day.style.backgroundColor = 'rgb(238,238,238)';
+        day.style.color = '';
+        day.classList.remove('fridayOn');
+      } else if (day.classList.contains('fridayOn') && day.classList.contains('holidayOn')) {
+        day.classList.remove('fridayOn');
+      } 
+    }
+  }
+}
+
+buttonFunction_2();
