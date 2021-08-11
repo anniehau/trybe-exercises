@@ -53,3 +53,26 @@ function createButton(buttonName) {
 }
 
 createButton('Feriados');
+
+// Exercicio 3
+function buttonFunction() {
+  document.querySelector('#btn-holiday').addEventListener('click', handleClick);
+  
+  function handleClick() {
+    let holidays = document.querySelectorAll('.holiday');
+    
+    for (let i = 0; i < holidays.length; i++) {
+      let day = holidays[i];
+
+      if (day.style.backgroundColor === 'red') {
+        day.style.backgroundColor = 'rgb(238,238,238)';
+        day.style.color = '';
+      }  else {
+        day.style.backgroundColor = 'red';
+        day.style.color = 'white';
+      }
+    }
+  }
+}
+
+buttonFunction();
