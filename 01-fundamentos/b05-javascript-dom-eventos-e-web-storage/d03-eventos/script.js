@@ -191,3 +191,23 @@ function handleDayClick(event) {
   }
 
 }
+
+// Exercicio Bonus
+document.querySelector('#btn-add').addEventListener('click', handleTaskAdd);
+document.querySelector('input').addEventListener('keyup', enterTaskAdd);
+
+function handleTaskAdd() {
+  let text = document.querySelector('input').value;
+  let newElement = document.createElement('li');
+
+  newElement.innerText = text;
+  document.querySelector('.task-list').appendChild(newElement);
+
+  document.querySelector('input').value = '';
+}
+
+function enterTaskAdd(event) {
+  if (event.keyCode === 13) {
+    handleTaskAdd()
+  }
+}
