@@ -5,26 +5,34 @@ window.onload = function() {
   const linespacing = document.querySelector('#line-spacing');
   const fontsize = document.querySelector('#font-size');
   const fontfamily = document.querySelector('#font-family');
+  const paragraphs = document.querySelectorAll('article p')
 
   // Event Listeners
   bgcolor.addEventListener("change",handleBg);
   textcolor.addEventListener("change",handleTextColor);
   linespacing.addEventListener("change",handleLineSpacing);
+  fontsize.addEventListener("change",handleFontSize);
 
   // Funções
-  function handleBg(event) {
+  function handleBg() {
     let value = bgcolor.value.toLowerCase();
     document.body.style.backgroundColor = value;
   }
 
-  function handleTextColor(event) {
+  function handleTextColor() {
     let value = textcolor.value.toLowerCase();
     document.body.style.color = value;
   }
 
-  function handleLineSpacing(event) {
-    let value = linespacing.value.toLowerCase();
+  function handleLineSpacing() {
+    let value = linespacing.value;
     document.querySelector('article').style.lineHeight = value;
   }
 
+  function handleFontSize() {
+    let value = fontsize.value;
+    for (let index = 0; index < paragraphs.length; index += 1) {
+      paragraphs[index].style.fontSize = value;
+    }
+  }
 }
