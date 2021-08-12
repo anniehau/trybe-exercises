@@ -8,11 +8,17 @@ window.onload = function() {
 
   // Event Listeners
   bgcolor.addEventListener("change",handleBg);
+  textcolor.addEventListener("change",handleTextColor);
 
   // Funções
   function handleBg(event) {
     let value = bgcolor.value.toLowerCase();
     document.body.style.backgroundColor = value;
+  }
+
+  function handleTextColor(event) {
+    let value = textcolor.value.toLowerCase();
+    document.body.style.color = value;
   }
 
 }
