@@ -5,6 +5,7 @@ window.onload = function() {
   const linespacing = document.querySelector('#line-spacing');
   const fontsize = document.querySelector('#font-size');
   const fontfamily = document.querySelector('#font-family');
+
   const paragraphs = document.querySelectorAll('article p')
 
   // Event Listeners
@@ -12,6 +13,7 @@ window.onload = function() {
   textcolor.addEventListener("change",handleTextColor);
   linespacing.addEventListener("change",handleLineSpacing);
   fontsize.addEventListener("change",handleFontSize);
+  fontfamily.addEventListener("change",handleFontFamily);
 
   // Funções
   function handleBg() {
@@ -34,5 +36,10 @@ window.onload = function() {
     for (let index = 0; index < paragraphs.length; index += 1) {
       paragraphs[index].style.fontSize = value;
     }
+  }
+
+  function handleFontFamily() {
+    let value = fontfamily.value;
+    document.body.style.fontFamily = value;
   }
 }
