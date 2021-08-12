@@ -9,6 +9,7 @@ window.onload = function() {
   // Event Listeners
   bgcolor.addEventListener("change",handleBg);
   textcolor.addEventListener("change",handleTextColor);
+  linespacing.addEventListener("change",handleLineSpacing);
 
   // Funções
   function handleBg(event) {
@@ -19,6 +20,11 @@ window.onload = function() {
   function handleTextColor(event) {
     let value = textcolor.value.toLowerCase();
     document.body.style.color = value;
+  }
+
+  function handleLineSpacing(event) {
+    let value = linespacing.value.toLowerCase();
+    document.querySelector('article').style.lineHeight = value;
   }
 
 }
