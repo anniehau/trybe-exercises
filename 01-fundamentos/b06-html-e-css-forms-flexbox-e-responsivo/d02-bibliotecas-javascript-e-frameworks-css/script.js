@@ -6,6 +6,8 @@ window.onload = function() {
   });
 
   // Funções
+  validation.init('form')
+
   function loadStates() {
     const select = document.querySelector('select')
     const states = {
