@@ -1,5 +1,9 @@
 window.onload = function() {
   // Variáveis
+  var picker = new Pikaday({
+    field: document.getElementById('datepicker'),
+    format: 'DD/MM/YYYY',
+  });
 
   // Funções
   function loadStates() {
