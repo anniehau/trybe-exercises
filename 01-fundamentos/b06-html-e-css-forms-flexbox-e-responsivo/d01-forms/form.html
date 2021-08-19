@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Formulário</h1>
+    <p>Envie seu currículo para a empresa, basta preencher o formulário abaixo:</p>
+  </header>
+
+  <fieldset class="form curriculum">
+    <h2>Currículo</h2>
+    <form action="" method="get">
+      <div class="form-items">
+        <label for="name"><span>Nome:</span></label>
+        <input type="text" name="name" id="name" class="form-item" maxlength="40" required>
+      </div>
+
+      <div class="form-items">
+        <label for="email"><span>E-mail:</span></label>
+        <input type="text" name="email" id="email" class="form-item" maxlength="50" required>
+      </div>
+
+      <div class="form-items">
+        <label for="cpf"><span>CPF:</span></label>
+        <input type="text" name="cpf" id="cpf" class="form-item" maxlength="11" required>
+      </div>
+
+      <div class="form-items">
+        <label for="address"><span>Endereço:</span></label>
+        <input type="text" name="address" id="address" class="form-item" maxlength="200" required>
+      </div>
+
+      <div class="form-items">
+        <label for="city"><span>Cidade:</span></label>
+        <input type="text" name="city" id="city" class="form-item" maxlength="28" required>
+      </div>
+
+      <div class="form-items">
+        <label for="state"><span>Estado:</span></label>
+        <select name="state" id="state" class="form-item" required></select>
+      </div>
+
+      <div class="form-items radio">
+        <label for="type-house">
+          <span>Condominio:</span>
+          <input type="radio" name="type" id="type-house" class="form-item" value="house" checked required> Casa
+        </label>
+        <label for="type-apartment">
+        <input type="radio" name="type" id="type-apartment" class="form-item" value="apt" required> Apartamento
+        </label>
+      </div>
+
+      <button>Enviar</button>
+    </form>
+  </fieldset>
+  <fieldset class="form last-job">
+    <h2>Seu último emprego</h2>
+    <form action="" method="get">
+      <div class="form-items">
+        <label for="summary">Resumo:</label>
+        <textarea name="summary" id="summary" class="form-item" maxlength="1000" required></textarea>
+      </div>
+      <br>
+      <div class="form-items">
+        <label for="job">Cargo: </label>
+        <input type="text" name="job" id="job" class="form-item" required>
+      </div>
+
+      <div class="form-items">
+        <label for="description">Descrição do cargo:</label>
+        <textarea name="description" id="description" class="form-item" maxlength="500" required></textarea>
+      </div>
+
+      <div class="form-items">
+        <label for="date">Data de Início: </label>
+        <input type="text" name="date" id="date" class="form-item" maxlength="10" placeholder="01/01/2021" required>
+      </div>
+      <br>
+      <div class="form-buttons">
+        <button id="clear-form">Limpar</button>
+        <button id="send-form">Enviar Formulário</button>
+      </div>
+    </form>
+  </fieldset>
+  <script src="script.js"></script>
+</body>
+</html>
