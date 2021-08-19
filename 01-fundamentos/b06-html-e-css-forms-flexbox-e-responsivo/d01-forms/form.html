@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Formulário</h1>
+    <p>Envie seu currículo para a empresa, basta preencher o formulário abaixo:</p>
+  </header>
+
+  <fieldset class="form">
+    <h2>Currículo</h2>
+    <form action="" method="get">
+      <div class="form-items">
+        <label for="name"><span>Nome:</span></label>
+        <input type="text" name="name" id="name" maxlength="40" required>
+      </div>
+
+      <div class="form-items">
+        <label for="email"><span>E-mail:</span></label>
+        <input type="text" name="email" id="email" maxlength="50" required>
+      </div>
+
+      <div class="form-items">
+        <label for="cpf"><span>CPF:</span></label>
+        <input type="text" name="cpf" id="cpf" maxlength="11" required>
+      </div>
+
+      <div class="form-items">
+        <label for="address"><span>Endereço:</span></label>
+        <input type="text" name="address" id="address" maxlength="200" required>
+      </div>
+
+      <div class="form-items">
+        <label for="city"><span>Cidade:</span></label>
+        <input type="text" name="city" id="city" maxlength="28" required>
+      </div>
+
+      <div class="form-items">
+        <label for="state"><span>Estado:</span></label>
+        <select name="state" id="state" required></select>
+      </div>
+
+      <div class="form-items radio">
+        <label for="type-house">
+          <span>Condominio:</span>
+          <input type="radio" name="type" id="type-house" required> Casa
+        </label>
+        <label for="type-apartment">
+        <input type="radio" name="type" id="type-apartment" required> Apartamento
+        </label>
+      </div>
+
+      <button>Enviar</button>
+    </form>
+  </fieldset>
+  <fieldset class="form">
+    <h2>Seu último emprego</h2>
+    <form action="" method="get">
+      <div class="form-items">
+        <label for="summary">Resumo:</label>
+        <textarea name="summary" id="summary" maxlength="1000" required></textarea>
+      </div>
+      <br>
+      <div class="form-items">
+        <label for="job">Cargo: </label>
+        <input type="text" name="job" id="job" required>
+      </div>
+
+      <div class="form-items">
+        <label for="description">Descrição do cargo:</label>
+        <textarea name="description" id="description" maxlength="500" required></textarea>
+      </div>
+
+      <div class="form-items">
+        <label for="date">Data de Início: </label>
+        <input type="text" name="date" id="date" maxlength="10" placeholder="01/01/2021" required>
+      </div>
+      <br>
+      <div class="form-buttons">
+        <button id="clean-form">Limpar</button>
+        <button id="send-form">Enviar Formulário</button>
+      </div>
+    </form>
+  </fieldset>
+  <script src="script.js"></script>
+</body>
+</html>
