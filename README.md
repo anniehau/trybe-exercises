@@ -38,7 +38,17 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Arte com Pixels]()_
-- [ ] 5-6: _[Projeto - Lista de Tarefas]()_
+- [X] 5-4: _JavaScript - Web Storage_
+- [X] 5-5: _[Projeto - Arte com Pixels]()_
+- [X] 5-6: _[Projeto - Lista de Tarefas]()_
 - [ ] 5-7: _[Projetos Bonus]()_
+
+##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+
+- [X] 6-1: _HTML & CSS - Forms_
+- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 6-3: _Introdução - CSS Flexbox_
+- [X] 6-3: _CSS Flexbox - Parte 1_
+- [ ] 6-4: _CSS Flexbox - Parte 2_
+- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projeto - Trybewarts]()_
