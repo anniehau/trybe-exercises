@@ -39,9 +39,9 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _[Projeto - Arte com Pixels]()_
-- [X] 5-6: _[Projeto - Lista de Tarefas]()_
-- [ ] 5-7: _[Projetos Bonus]()_
+- [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-pixels-art)_
+- [X] 5-6: _[Projeto - Lista de Tarefas](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-todo-list)_
+- [X] 5-7: _[Projeto Bonus - Meme Generator](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-meme-generator)_
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
