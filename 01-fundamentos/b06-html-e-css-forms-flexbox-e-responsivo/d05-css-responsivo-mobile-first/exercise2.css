@@ -1,0 +1,83 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: rgb(240 , 240 , 240);
+  color: rgb(20 , 20 , 20)
+}
+
+@media screen and (max-width: 320px) {
+  header {
+    display: flex;
+    background-color: pink;
+    color: white;
+    align-items: center;
+  }
+
+  header h1 {
+    width: 80%;
+    font-size: large;
+    text-align: center;
+  }
+
+  header nav ul {
+    flex-basis: 25%;
+    font-size: small;
+    list-style: none;
+    padding: 0;
+  }
+
+  header nav ul li {
+    background-color: cornflowerblue;
+    padding: 2px;
+    border-radius: 5px;
+    margin-bottom: 2px;
+  }
+
+  header nav ul li:hover {
+    background-color: rgb(70, 104, 165)
+  }
+
+  .aside-one {
+    padding: 5px;
+    background-color: lightblue;
+  }
+
+  .aside-one li {
+    margin-right: 20px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: x-large;
+    text-align: center;
+  }
+
+  .aside-two {
+    padding: 20px 0;
+    background-color: lightblue;
+  }
+
+  .aside-two li {
+    margin-right: 20px;
+  }
+
+  .main-content {
+    padding-top: 20px;
+  }
+
+  footer {
+    padding: 5px 0;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  footer h3 {
+    font-size: xx-large;
+  }
+}
