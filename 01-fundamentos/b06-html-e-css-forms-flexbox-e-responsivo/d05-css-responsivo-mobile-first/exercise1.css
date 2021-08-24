@@ -36,3 +36,12 @@ figure {
     flex-basis: 100%;
   }
 }
+
+@media screen and (min-width: 1200px) {
+  body {
+    background-color: pink;
+    font-size: 18px;
+    margin: 25px 75px;
+    max-width: 1200px;
+  }
+}
