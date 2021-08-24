@@ -13,6 +13,7 @@ body {
   background-color: #5C687C;
   display: flex;
   flex-flow: row-reverse;
+  justify-content: flex-end;
 }
 
 .logo-container {
