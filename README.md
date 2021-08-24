@@ -49,6 +49,6 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [X] 6-3: _Introdução - CSS Flexbox_
 - [X] 6-3: _CSS Flexbox - Parte 1_
-- [ ] 6-4: _CSS Flexbox - Parte 2_
+- [X] 6-4: _CSS Flexbox - Parte 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Trybewarts]()_
