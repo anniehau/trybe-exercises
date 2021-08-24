@@ -12,7 +12,7 @@ body {
   color: rgb(20 , 20 , 20)
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
   header {
     display: flex;
     background-color: pink;
@@ -69,6 +69,86 @@ body {
 
   .main-content {
     padding-top: 20px;
+  }
+
+  footer {
+    padding: 5px 0;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  footer h3 {
+    font-size: xx-large;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  header {
+    display: flex;
+    background-color: pink;
+    color: white;
+    align-items: center;
+    width: 100%;
+  }
+
+  header h1 {
+    width: 80%;
+    text-align: center;
+  }
+
+  header nav ul {
+    display: flex;
+    flex-basis: 25%;
+    font-size: small;
+    list-style: none;
+    padding: 0;
+    
+  }
+
+  header nav ul li {
+    background-color: cornflowerblue;
+    padding: 2px;
+    border-radius: 5px;
+    margin: 2px;
+  }
+
+  header nav ul li:hover {
+    background-color: rgb(70, 104, 165)
+  }
+
+  .aside-one {
+    padding: 5px;
+    background-color: lightblue;
+    flex-grow: 1;
+  }
+
+  .aside-one li {
+    margin-right: 20px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: x-large;
+    margin-left: 25px;
+  }
+
+  .aside-two {
+    padding: 20px 0;
+    background-color: lightblue;
+  }
+
+  .aside-two li {
+    margin-right: 20px;
+  }
+
+  .main-content {
+    padding-top: 20px;
+    flex-grow: 1;
+    margin: 0 25px;
   }
 
   footer {
