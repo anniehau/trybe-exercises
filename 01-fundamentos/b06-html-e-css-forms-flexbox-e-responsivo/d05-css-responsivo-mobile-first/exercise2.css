@@ -1,0 +1,345 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: rgb(240 , 240 , 240);
+  color: rgb(20 , 20 , 20);
+  font-family: sans-serif;
+}
+
+@media screen and (max-width: 411px) {
+  header {
+    display: flex;
+    background-color: pink;
+    color: white;
+    align-items: center;
+  }
+
+  header h1 {
+    width: 80%;
+    font-size: large;
+    text-align: center;
+  }
+
+  header nav ul {
+    flex-basis: 25%;
+    font-size: small;
+    list-style: none;
+    padding: 0;
+  }
+
+  header nav ul li {
+    background-color: cornflowerblue;
+    padding: 2px;
+    border-radius: 5px;
+    margin-bottom: 2px;
+  }
+
+  header nav ul li:hover {
+    background-color: rgb(70, 104, 165)
+  }
+
+  .aside-one {
+    padding: 5px;
+    background-color: lightblue;
+  }
+
+  .aside-one li {
+    margin-right: 20px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: x-large;
+    text-align: center;
+  }
+
+  .aside-two {
+    padding: 20px 0;
+    background-color: lightblue;
+  }
+
+  .aside-two li {
+    margin-right: 20px;
+  }
+
+  .main-content {
+    padding-top: 20px;
+  }
+
+  footer {
+    padding: 5px 0;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  footer h3 {
+    font-size: xx-large;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  header {
+    display: flex;
+    background-color: pink;
+    color: white;
+    align-items: center;
+    width: 100%;
+  }
+
+  header h1 {
+    width: 80%;
+    text-align: center;
+  }
+
+  header nav ul {
+    display: flex;
+    flex-basis: 25%;
+    font-size: small;
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  header nav ul li {
+    background-color: cornflowerblue;
+    padding: 2px;
+    border-radius: 5px;
+    margin: 2px;
+  }
+
+  header nav ul li:hover {
+    background-color: rgb(70, 104, 165)
+  }
+
+  .aside-one {
+    padding: 5px;
+    background-color: lightblue;
+    flex-grow: 1;
+  }
+
+  .aside-one li {
+    margin-right: 20px;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: x-large;
+    margin-left: 25px;
+  }
+
+  .aside-two {
+    padding: 20px 25px;
+    background-color: lightblue;
+    flex-grow: 1;
+  }
+
+  .aside-two li {
+    margin-right: 20px;
+  }
+
+  .main-content {
+    padding-top: 20px;
+    flex-grow: 1;
+    margin: 0 25px;
+  }
+
+  footer {
+    padding: 5px 0;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  footer h3 {
+    font-size: xx-large;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  header {
+    display: flex;
+    background-color: pink;
+    color: white;
+    align-items: center;
+    width: 100%;
+  }
+
+  header h1 {
+    width: 80%;
+    text-align: center;
+  }
+
+  header nav {
+    margin-right: 25px;
+  }
+
+  header nav ul {
+    display: block;
+    width: 80px;
+    flex-basis: 25%;
+    font-size: small;
+    list-style: none;
+    padding: 0;
+  }
+
+  header nav ul li {
+    background-color: cornflowerblue;
+    padding: 2px;
+    border-radius: 5px;
+    margin: 2px;
+  }
+
+  header nav ul li:hover {
+    background-color: rgb(70, 104, 165);
+    cursor: pointer;
+  }
+
+  .aside-one {
+    padding: 5px;
+    background-color: lightblue;
+    flex-grow: 1;
+    text-align: center;
+  }
+
+  .aside-one li {
+    margin-right: 20px;
+    list-style: none;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: x-large;
+    margin-left: 25px;
+  }
+
+  .aside-two {
+    padding: 20px 0;
+    background-color: lightblue;
+    flex-grow: 1;
+    text-align: center;
+  }
+
+  .aside-two li {
+    margin-right: 20px;
+    list-style: none;
+  }
+
+  .main-content {
+    padding-top: 20px;
+    flex-grow: 1;
+    margin: 0 25px;
+  }
+
+  footer {
+    padding: 5px 0;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  footer h3 {
+    font-size: xx-large;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .container {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  header {
+    display: flex;
+    background-color: pink;
+    color: white;
+    align-items: center;
+    width: 100%;
+  }
+
+  header h1 {
+    width: 80%;
+    text-align: center;
+  }
+
+  header nav {
+    margin-right: 25px;
+  }
+
+  header nav ul {
+    display: flex;
+    flex-basis: 25%;
+    font-size: small;
+    list-style: none;
+    padding: 0;
+  }
+
+  header nav ul li {
+    background-color: cornflowerblue;
+    padding: 2px;
+    border-radius: 5px;
+    margin: 2px;
+    font-size: 18px;
+    width: 100px;
+    height: 22px;
+    text-align: center;
+    align-items: center;
+  }
+
+  header nav ul li:hover {
+    background-color: rgb(70, 104, 165)
+  }
+
+  .aside-one {
+    padding: 5px;
+    background-color: lightblue;
+    flex-grow: 1;
+  }
+
+  .aside-one li {
+    margin-right: 20px;
+    list-style: none;
+  }
+
+  .aside-one h2, .aside-two h2 {
+    font-size: x-large;
+    margin-left: 25px;
+  }
+
+  .aside-two {
+    padding: 20px 0;
+    background-color: lightblue;
+    flex-grow: 1;
+  }
+
+  .aside-two li {
+    margin-right: 20px;
+    list-style: none;
+  }
+
+  .main-content {
+    padding-top: 20px;
+    flex-grow: 1;
+    margin: 0 25px;
+  }
+
+  footer {
+    padding: 5px 0;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  footer h3 {
+    font-size: xx-large;
+  }
+}
