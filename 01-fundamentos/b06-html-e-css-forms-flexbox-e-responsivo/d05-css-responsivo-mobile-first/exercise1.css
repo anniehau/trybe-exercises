@@ -2,17 +2,37 @@ body {
   font-size: 14px;
   margin: 15px 15px;
 }
+
 h1 {
   font-size: x-large;
 }
-h2 {
 
-}
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 figure {
-    margin: 50px 0;
+  margin: 50px 0;
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: coral;
+    font-size: 16px;
+    margin: 25px 50px;
+  }
+
+  main {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  figure {
+    flex-basis: 40%;
+  }
+
+  main h2 {
+    flex-basis: 100%;
+  }
 }
