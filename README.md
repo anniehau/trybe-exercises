@@ -51,7 +51,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 6-3: _CSS Flexbox - Parte 1_
 - [X] 6-4: _CSS Flexbox - Parte 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [X] 6-6: _[Projeto - Trybewarts]()_
+- [X] 6-6: _[Projeto - Trybewarts](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-trybewarts)_
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
