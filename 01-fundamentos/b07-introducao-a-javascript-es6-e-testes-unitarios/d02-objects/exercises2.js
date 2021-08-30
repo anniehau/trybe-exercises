@@ -30,8 +30,8 @@ const listSize = (obj) => console.log(`Tamanho do objeto: ${Object.entries(obj).
 listSize(lesson3);
 
 function totalStudents(obj) {
-  let result = 0;
   const array = Object.keys(obj);
+  let result = 0;
 
   for (index in array) {
     result += obj[array[index]].numeroEstudantes;
@@ -41,3 +41,11 @@ function totalStudents(obj) {
 }
 
 totalStudents(allLessons);
+
+function keyValue(obj, value) {
+  const array = Object.values(obj);
+
+  return array[value];
+}
+
+console.log(keyValue(lesson1, 0));
