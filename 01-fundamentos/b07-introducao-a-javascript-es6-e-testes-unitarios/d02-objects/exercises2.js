@@ -1,0 +1,43 @@
+const lesson1 = {
+  materia: 'Matemática',
+  numeroEstudantes: 20,
+  professor: 'Maria Clara',
+  turno: 'manhã',
+};
+
+const lesson2 = {
+  materia: 'História',
+  numeroEstudantes: 20,
+  professor: 'Carlos',
+};
+
+const lesson3 = {
+  materia: 'Matemática',
+  numeroEstudantes: 10,
+  professor: 'Maria Clara',
+  turno: 'noite',
+};
+
+const allLessons = Object.assign({}, {lesson1, lesson2, lesson3});
+
+const addMorningTurn = (obj, key, value) => obj[key] = value;
+addMorningTurn(lesson2, 'turno', 'manhã');
+
+const listKeys = (obj) => console.log(`Keys: "${Object.keys(obj)}".`);
+listKeys(lesson1);
+
+const listSize = (obj) => console.log(`Tamanho do objeto: ${Object.entries(obj).length}.`);
+listSize(lesson3);
+
+function totalStudents(obj) {
+  let result = 0;
+  const array = Object.keys(obj);
+
+  for (index in array) {
+    result += obj[array[index]].numeroEstudantes;
+  }
+
+  console.log(result);
+}
+
+totalStudents(allLessons);
