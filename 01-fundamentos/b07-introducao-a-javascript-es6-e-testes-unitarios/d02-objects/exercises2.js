@@ -75,3 +75,23 @@ function mathStudents() {
 }
 
 console.log(mathStudents());
+
+function createReport(obj, teacher) {
+  const array = Object.keys(allLessons);
+  const report = {
+    professor: teacher,
+    aulas: [],
+    estudantes: 0
+  }
+
+  for (index in array) {
+    if (allLessons[array[index]].professor === teacher) {
+      report.aulas.push(allLessons[array[index]].materia);
+      report.estudantes += allLessons[array[index]].numeroEstudantes;
+    }
+  }
+
+  return report;
+}
+
+console.log(createReport(allLessons, 'Maria Clara'));
