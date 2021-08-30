@@ -49,3 +49,14 @@ function keyValue(obj, value) {
 }
 
 console.log(keyValue(lesson1, 0));
+
+function verifyPair(obj, key, value) {
+  if (obj[key] === value) {
+    return true;
+  }
+
+  return false;
+}
+
+console.log(verifyPair(lesson3, 'turno', 'noite'));
+console.log(verifyPair(lesson3, 'materia', 'Maria Clara'));
