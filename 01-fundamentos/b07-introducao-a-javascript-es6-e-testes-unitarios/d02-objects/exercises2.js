@@ -60,3 +60,18 @@ function verifyPair(obj, key, value) {
 
 console.log(verifyPair(lesson3, 'turno', 'noite'));
 console.log(verifyPair(lesson3, 'materia', 'Maria Clara'));
+
+function mathStudents() {
+  const array = Object.keys(allLessons);
+  let result = 0;
+
+  for (index in array) {
+    if (allLessons[array[index]].materia === 'Matemática') {
+      result += allLessons[array[index]].numeroEstudantes;
+    }
+  }
+
+  return result;
+}
+
+console.log(mathStudents());
