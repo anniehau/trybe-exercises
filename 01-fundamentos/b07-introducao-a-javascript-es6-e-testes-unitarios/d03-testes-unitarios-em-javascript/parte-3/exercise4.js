@@ -3,7 +3,7 @@ const assert = require('assert');
 function secondThirdSmallest(array) {
   let results = []
   array.sort(function (x, y) {
-    if (x > y) return y;
+    return x - y;
   });
   results = [array[1], array[2]];
   return results;
@@ -14,3 +14,4 @@ const result = [5, 6];
 const output = secondThirdSmallest(parameter);
 
 assert.deepStrictEqual(output, result);
+
