@@ -14,4 +14,3 @@ const result = [5, 6];
 const output = secondThirdSmallest(parameter);
 
 assert.deepStrictEqual(output, result);
-
