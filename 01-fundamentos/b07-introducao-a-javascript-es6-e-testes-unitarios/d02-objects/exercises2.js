@@ -37,7 +37,7 @@ function totalStudents(obj) {
     result += obj[array[index]].numeroEstudantes;
   }
 
-  console.log(result);
+  console.log(Object);
 }
 
 totalStudents(allLessons);

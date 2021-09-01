@@ -56,6 +56,15 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
 - [X] 7-1: _Javascript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _Javascript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em Javascript_
-- [ ] 7-4: _Projeto - JavaScript Testes Unitários_
+- [X] 7-2: _Javascript ES6 - Objects_
+- [X] 7-3: _Testes unitários em Javascript_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-js-unit-tests)_
+
+#### Bloco 8: Higher Order Functions do JavaScript ES6
+
+- [ ] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [ ] 8-6: _Projeto - Zoo functions_
