@@ -40,3 +40,23 @@ const mageDamage = () => {
   battleMembers.mage.mana = mana - 15;
   return Math.floor(Math.random() * (max - min) + min);
 }
+
+const gameActions = {
+  warriorTurn: () => {
+    const damage = warriorDamage();
+    battleMembers.dragon.healthPoints -= damage;
+    battleMembers.warrior.damage = damage;
+  },
+  mageTurn: () => {
+    const damage = mageDamage();
+    battleMembers.dragon.healthPoints -= damage;
+    battleMembers.mage.damage = damage;
+  },
+  dragonTurn: () => {
+    const damage = dragonDamage();
+    battleMembers.warrior.healthPoints -= damage;
+    battleMembers.mage.healthPoints -= damage;
+    battleMembers.dragon.damage = damage;
+  },
+  currentStats: () => console.log(battleMembers),
+}
