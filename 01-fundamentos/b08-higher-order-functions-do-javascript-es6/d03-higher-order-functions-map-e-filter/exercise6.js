@@ -63,7 +63,6 @@ const books = [
   },
 ];
 
-// Adicione o código do exercício aqui:
 const expectedResult = [
   'O Senhor dos Anéis',
   'Fundação',
@@ -75,6 +74,6 @@ function oldBooks() {
   const filter = books.filter((book) => (book.releaseYear < currentYear - 60));
   const map = filter.map((book) => { return book.name });
   return map;
-}
+};
 
 assert.deepStrictEqual(oldBooks(), expectedResult);

@@ -63,7 +63,6 @@ const books = [
   },
 ];
 
-// Adicione o código do exercício aqui:
 const expectedResult = [
   { 
     id: 1,
