@@ -63,7 +63,6 @@ const books = [
   },
 ];
 
-// Adicione o código do exercício aqui:
 const expectedResult = [
   'As Crônicas de Gelo e Fogo - Fantasia - George R. R. Martin',
   'O Senhor dos Anéis - Fantasia - J. R. R. Tolkien',
