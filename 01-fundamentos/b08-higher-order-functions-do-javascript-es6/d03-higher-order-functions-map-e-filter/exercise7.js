@@ -64,3 +64,19 @@ const books = [
 ];
 
 // Adicione o código do exercício aqui:
+const expectedResult = 'O Senhor dos Anéis';
+
+function authorWith3DotsOnName() {
+  const checkDots = books.map((book) => {
+    let result = 0;
+    for (let index = 0; index < book.author.name.length; index++) {
+      if (book.author.name[index] === '.') result += 1;
+    }
+    if (result >= 3) return book;
+    return false;
+  })
+  const find = checkDots.find((element) => (element != false));
+  return find.name;
+}
+
+assert.deepStrictEqual(authorWith3DotsOnName(), expectedResult);
