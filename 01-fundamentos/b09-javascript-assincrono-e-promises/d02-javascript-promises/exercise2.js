@@ -7,10 +7,21 @@ function makeArray() {
   return result;
 };
 
-const promise = new Promise((resolve, reject) => {
-  const array = makeArray();
-  const sum = array.reduce((total, num) => total + num);
-  if (sum < 8000) return resolve();
-  reject();
-}).then(() => console.log('Promise resolvida'))
-.catch(() => console.log('Promise rejeitada'))
+function fetchPromise() {
+  const promise = new Promise((resolve, reject) => {
+    const array = makeArray();
+    const sum = array.reduce((total, num) => total + num);
+    sum < 8000 ? resolve(sum) : reject()
+  })
+
+  promise
+    .then((sum) => {
+      console.log('Promise resolvida')
+      const division = [2, 3, 5, 10];
+      return division.map((num) => sum / num);
+  })
+    .then((arr) => arr.reduce((total, num) => total + num))
+    .catch(() => console.log('É mais de oito mil! Essa promise deve estar quebrada!'));
+};
+
+fetchPromise();
