@@ -78,6 +78,6 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 #### Bloco 10: Testes Automatizados com Jest
 
 - [X] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: Jest - _Testes Assíncronos_
+- [X] 10-2: Jest - _Testes Assíncronos_
 - [ ] 10-3: Jest - _Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
