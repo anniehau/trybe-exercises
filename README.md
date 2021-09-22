@@ -69,8 +69,15 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [X] 8-6: _Projeto - Zoo functions_
 
-#### Bloco 9: 
+#### Bloco 9: JavaScript Assíncrono e Promises
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Promises_
-- [X] 9-3:  _Projeto - Carrinho de Compras_
+- [X] 9-3:  _Projeto - Carrinho de Compras_()
+
+#### Bloco 10: Testes Automatizados com Jest
+
+- [X] 10-1: _Primeiros passos no Jest_
+- [ ] 10-2: Jest - _Testes Assíncronos_
+- [ ] 10-3: Jest - _Simulando comportamentos_
+- [ ] 10-4: _Projeto - Jest Assíncrono e Mocking_()
