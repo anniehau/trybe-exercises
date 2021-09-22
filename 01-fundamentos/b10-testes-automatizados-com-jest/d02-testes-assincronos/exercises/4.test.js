@@ -17,4 +17,3 @@ test('O retorno contém os repositórios desejados', () => {
     expect(actual.length).toBeGreaterThanOrEqual(2);
   });
 })
-
