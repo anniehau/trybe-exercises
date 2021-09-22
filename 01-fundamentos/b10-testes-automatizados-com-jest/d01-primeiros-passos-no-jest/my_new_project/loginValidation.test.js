@@ -5,7 +5,7 @@ const {
   verifyCredentials,
 } = require("./loginValidation.js");
 
-describe("a função verifyCredentials()", () => {
+describe.skip("a função verifyCredentials()", () => {
   
   it("verifyCredentials() calls the correct function depending on the user and password input", () => {
     
