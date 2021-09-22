@@ -73,7 +73,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Promises_
-- [X] 9-3:  _Projeto - Carrinho de Compras_()
+- [X] 9-3:  _Projeto - Carrinho de Compras_(https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-zoo-functions)
 
 #### Bloco 10: Testes Automatizados com Jest
 
