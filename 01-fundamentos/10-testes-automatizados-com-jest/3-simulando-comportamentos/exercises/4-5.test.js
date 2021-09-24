@@ -11,7 +11,6 @@ describe('Teste de mock retornando à funcionalidade original após', () => {
 
     string.uppercase.mockRestore();
     expect(string.uppercase('teste')).toBe('TESTE');
-    expect(string.uppercase).toHaveBeenCalledTimes(1);
   })
   
   test('Função first retorna o último caractére', () => {
@@ -23,7 +22,6 @@ describe('Teste de mock retornando à funcionalidade original após', () => {
 
     string.first.mockRestore();
     expect(string.first('teste')).toBe('t');
-    expect(string.first).toHaveBeenCalledTimes(1);
   })
   
   test('Função fuse funde 3 strings', () => {
@@ -35,6 +33,5 @@ describe('Teste de mock retornando à funcionalidade original após', () => {
 
     string.fuse.mockRestore();
     expect(string.fuse('tes', 'te')).toBe('teste');
-    expect(string.fuse).toHaveBeenCalledTimes(1);
   })
 })
