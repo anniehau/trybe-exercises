@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './Header';
+import Content from './Content';
+import Footer from './Footer';
 
 const compromissos = ['Lavar as roupas', 'Varrer a casa', 'Estudar japonês', 'Ir para o curso', 'Tomar banho']
 
@@ -16,18 +17,24 @@ const MakeList = (value) => {
 function App() {
   return (
     <div>
-      <ul>
-        <h2>Coisas aprendidas</h2>
-        {Task('Unix')}
-        {Task('Git')}
-        {Task('HTML')}
-        {Task('CSS')}
-        {Task('Javascript')}
-        {Task('(...)')}
-      </ul>
-      <ol>
-        {MakeList(compromissos)}
-      </ol>
+      <Header />
+      <Content />
+      <Footer />
+      <main>
+        <ul>
+          <h2>Coisas aprendidas no fundamentos</h2>
+          {Task('Unix')}
+          {Task('Git')}
+          {Task('HTML')}
+          {Task('CSS')}
+          {Task('Javascript')}
+          {Task('(...)')}
+        </ul>
+        <ol>
+          <h2>Coisas a fazer</h2>
+          {MakeList(compromissos)}
+        </ol>
+      </main>
     </div>
   );
 }
