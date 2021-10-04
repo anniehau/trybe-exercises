@@ -80,12 +80,12 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 10-1: _Primeiros passos no Jest_
 - [X] 10-2: Jest - _Testes Assíncronos_
 - [X] 10-3: Jest - _Simulando comportamentos_
-- [X] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [X] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-jest)_
 
 ## Desenvolvimento Front-end ::hourglass_flowing_sand::
 
 ##### Bloco 11: [Introdução à React](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-11-introducao-a-react)
-- [ ] 11.1 - Introdução - Front-end
+- [X] 11.1 - Introdução - Front-end
 - [ ] 11.1 - Introdução - React
 - [ ] 11.1 - 'Hello, world!' no React!
 - [ ] 11.2 - Componentes React
