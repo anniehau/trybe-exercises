@@ -89,7 +89,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 11.1 - Introdução - React
 - [X] 11.1 - 'Hello, world!' no React!
 - [X] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [x] 11.3 - _[Projeto - Movie Cards Library](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-movie-cards-library)_
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 - [ ] 12.1 - Componentes com estado e eventos
