@@ -86,9 +86,9 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 
 ##### Bloco 11: Introdução à React
 - [X] 11.1 - Introdução - Front-end
-- [ ] 11.1 - Introdução - React
-- [ ] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
+- [X] 11.1 - Introdução - React
+- [X] 11.1 - 'Hello, world!' no React!
+- [X] 11.2 - Componentes React
 - [ ] 11.3 - Projeto - Movie Cards Library
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
