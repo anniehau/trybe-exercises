@@ -92,7 +92,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [ ] 11.3 - Projeto - Movie Cards Library
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
-- [ ] 12.1 - Componentes com estado e eventos
+- [X] 12.1 - Componentes com estado e eventos
 - [ ] 12.2 - Formulários no React
 - [ ] 12.3 - Projeto - Movie Cards Library Stateful
 
