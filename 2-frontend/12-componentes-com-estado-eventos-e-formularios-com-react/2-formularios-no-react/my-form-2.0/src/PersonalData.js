@@ -1,5 +1,4 @@
 import React from 'react';
-import TextInput from './TextInput'
 import data from './data';
 
 class PersonalData extends React.Component {
@@ -8,9 +7,11 @@ class PersonalData extends React.Component {
 
     return (
       <fieldset className="personal-data">
+        <h2>Informação Pessoal</h2>
         <div className="container">
-          Nome:
+          <span>Nome:</span>
           <input
+          className="text-input"
           onChange={handle}
           type="text"
           name="nome"
@@ -21,8 +22,9 @@ class PersonalData extends React.Component {
         </div>
 
         <div className="container">
-          E-mail:
+          <span>E-mail:</span>
           <input
+          className="text-input"
           onChange={handle}
           type="text"
           name="email"
@@ -33,8 +35,9 @@ class PersonalData extends React.Component {
         </div>
 
         <div className="container">
-          CPF:
+          <span>CPF:</span>
           <input
+          className="text-input"
           onChange={handle}
           type="text"
           name="cpf"
@@ -45,8 +48,9 @@ class PersonalData extends React.Component {
         </div>
 
         <div className="container">
-          Endereço:
+          <span>Endereço:</span>
           <input
+          className="text-input"
           onChange={handle}
           type="text"
           name="endereço"
@@ -57,8 +61,9 @@ class PersonalData extends React.Component {
         </div>
 
         <div className="container">
-          Cidade:
+        <span>Cidade:</span>
           <input
+          className="text-input"
           onChange={handle}
           onBlur={handleBlur}
           type="text"
@@ -69,30 +74,38 @@ class PersonalData extends React.Component {
           />
         </div>
 
-        <select name="estado" onChange={handle} className="state-select" required>
-          {data.map((estado, index) => (<option key={index}>{estado}</option>))}
-        </select>
-
         <div className="container">
-          <input
-          onChange={handle}
-          id="casa"
-          name="tipo"
-          type="radio"
-          value="Casa"
-          required
-          />
-          <label htmlFor="casa">Casa</label>
+          <span>Estado:</span>
+          <select name="estado" onChange={handle} className="state-select" required>
+            {data.map((estado, index) => (<option key={index}>{estado}</option>))}
+          </select>
+        </div>
+
+        <div className="container-vertical">
+          <p>Complemento</p>
+          <div>
+            <input
+            onChange={handle}
+            id="casa"
+            name="tipo"
+            type="radio"
+            value="Casa"
+            required
+            />
+            <label htmlFor="casa">Casa</label>
+          </div>
           
-          <input
-          onChange={handle}
-          id="apt"
-          name="tipo"
-          type="radio"
-          value="Apartamento"
-          required
-          />
-          <label htmlFor="apt">Apartamento</label>
+          <div>
+            <input
+            onChange={handle}
+            id="apt"
+            name="tipo"
+            type="radio"
+            value="Apartamento"
+            required
+            />
+            <label htmlFor="apt">Apartamento</label>
+          </div>
         </div>
       </fieldset>
     )

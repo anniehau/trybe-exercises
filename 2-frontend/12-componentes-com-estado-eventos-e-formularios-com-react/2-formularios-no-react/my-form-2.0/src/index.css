@@ -5,9 +5,82 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #EEE;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 3px 3px;
+}
+
+.container-vertical {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3px 3px;
+}
+
+.container span {
+  display: inline-block;
+  width: 100px;
+}
+
+.text-input {
+  display: inline-block;
+  width: 200px;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+}
+
+fieldset {
+  border: 0;
+  background-color: #FFF;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+button {
+  border: 0;
+  border-radius: 5px;
+  width: 75px;
+  height: 25px;
+  margin: 20px 5px;
+}
+
+.btn-submit {
+  background-color: #247728;
+  color: white;
+}
+
+.btn-submit:hover {
+  cursor: pointer;
+  background-color: #125518;
+}
+
+.btn-reset {
+  background-color: #772428;
+  color: white;
+}
+
+.btn-reset:hover {
+  cursor: pointer;
+  background-color: #551218;
+}
+
+h1 {
+  color: #665599;
 }

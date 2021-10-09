@@ -60,21 +60,23 @@ class Form extends React.Component {
         <PersonalData state={state} handle={this.handle} handleBlur={this.handleBlur} />
         <LastJob state={state} handle={this.handle} />
 
-        <button 
-        className="btn-submit" 
-        type="button" 
-        onClick={() => handleButtons(state, true)}
-        >
-          Enviar
-        </button>
+        <fieldset>
+          <button 
+          className="btn-submit" 
+          type="button" 
+          onClick={() => handleButtons(state, true)}
+          >
+            Enviar
+          </button>
 
-        <button
-        className="btn-submit"
-        type="reset"
-        onClick={() => handleButtons(this.cleanStates(), false)}
-        >
-          Limpar
-        </button>
+          <button
+          className="btn-reset"
+          type="reset"
+          onClick={() => handleButtons(this.cleanStates(), false)}
+          >
+            Limpar
+          </button>
+        </fieldset>
       </form>
     )
   }

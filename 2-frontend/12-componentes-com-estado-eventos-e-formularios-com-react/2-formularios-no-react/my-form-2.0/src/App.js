@@ -25,6 +25,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
+        <h1>Form</h1>
         <Form handleButtons={this.handleButtons} />
         <Results submitted={this.state.submitted} state={this.state} />
       </div>

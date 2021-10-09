@@ -21,16 +21,17 @@ class LastJob extends React.Component {
 
     return (
       <fieldset>
-        <div className="container">
-          Resumo do currículo:
+        <h2>Informação Profissional</h2>
+        <div className="container-vertical">
+        <p>Resumo do currículo:</p>
           <textarea onChange={handle} name="resume" maxLength="1000" required></textarea>
         </div>
-        <div className="container">
-          Cargo:
+        <div className="container-vertical">
+          <p>Cargo:</p>
           <textarea onChange={handle} onMouseEnter={this.alert} name="job" maxLength="40" required ></textarea>
         </div>
-        <div className="container">
-          Descrição do cargo:
+        <div className="container-vertical">
+          <p>Descrição do cargo:</p>
           <textarea onChange={handle} name="job_description" maxLength="500" required></textarea>
         </div>
       </fieldset>
