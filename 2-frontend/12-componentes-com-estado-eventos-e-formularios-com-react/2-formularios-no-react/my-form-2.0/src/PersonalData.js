@@ -2,101 +2,97 @@ import React from 'react';
 import TextInput from './TextInput'
 import data from './data';
 
-const firstState = {
-  nome: '',
-  email: '',
-  cpf: '',
-  endereço: '',
-  cidade: '',
-  estado: '',
-  tipo: '',
-}
-
 class PersonalData extends React.Component {
-  constructor() {
-    super();
-
-    this.state = firstState;
-    this.handle = this.handle.bind(this);
-  }
-
-  handle({ target }, limit) {
-    let { name, value } = target;
-
-    if (value.length > limit) return value.slice(0, -1)
-    if (name === 'nome') {
-      this.setState({[name]: value.toUpperCase()});
-      return value.toUpperCase();
-    }
-    this.setState({[name]: value})
-    return value;
-  }
-
   render() {
-    const { handle } = this;
+    const { handle, handleBlur, state } = this.props;
 
     return (
       <fieldset className="personal-data">
-        <TextInput
-        handler={handle}
-        className="m-input"
-        name="Nome"
-        limit={40}
-        required
-        />
+        <div className="container">
+          Nome:
+          <input
+          onChange={handle}
+          type="text"
+          name="nome"
+          maxLength="40"
+          value={state.nome}
+          required
+          />
+        </div>
 
-        <TextInput
-        handler={handle}
-        className="m-input"
-        name="Email"
-        limit={50}
-        required
-        />
+        <div className="container">
+          E-mail:
+          <input
+          onChange={handle}
+          type="text"
+          name="email"
+          maxLength="50"
+          value={state.email}
+          required
+          />
+        </div>
 
-        <TextInput
-        handler={handle}
-        className="s-input"
-        name="CPF"
-        limit={11}
-        required
-        />
+        <div className="container">
+          CPF:
+          <input
+          onChange={handle}
+          type="text"
+          name="cpf"
+          maxLength="11"
+          value={state.cpf}
+          required
+          />
+        </div>
 
-        <TextInput
-        handler={handle}
-        className="x-input"
-        name="Endereço"
-        limit={200} 
-        required
-        />
+        <div className="container">
+          Endereço:
+          <input
+          onChange={handle}
+          type="text"
+          name="endereço"
+          maxLength="200"
+          value={state.endereço}
+          required
+          />
+        </div>
 
-        <TextInput
-        handler={handle}
-        className="m-input"
-        name="Cidade"
-        limit={28}
-        required
-        />
+        <div className="container">
+          Cidade:
+          <input
+          onChange={handle}
+          onBlur={handleBlur}
+          type="text"
+          name="cidade"
+          maxLength="28"
+          value={state.cidade}
+          required
+          />
+        </div>
 
-        <select className="state-select" required>
-          {data.map((estado) => (<option>{estado}</option>))}
+        <select name="estado" onChange={handle} className="state-select" required>
+          {data.map((estado, index) => (<option key={index}>{estado}</option>))}
         </select>
 
         <div className="container">
           <input
+          onChange={handle}
           id="casa"
           name="tipo"
           type="radio"
+          value="Casa"
           required
           />
-          <label for="casa">Casa</label>
+          <label htmlFor="casa">Casa</label>
           
           <input
+          onChange={handle}
           id="apt"
           name="tipo"
           type="radio"
+          value="Apartamento"
           required
           />
-          <label for="apt">Apartamento</label>
+          <label htmlFor="apt">Apartamento</label>
         </div>
       </fieldset>
     )
