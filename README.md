@@ -94,7 +94,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 - [X] 12.1 - _[Componentes com estado e eventos](https://github.com/anniehau/exercise-pokedex-state)_
 - [X] 12.2 - Formulários no React
-- [X] 12.3 - Projeto - Tryunfo
+- [X] 12.3 - _[Projeto - Tryunfo](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-tryunfo)_
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
 - [X] 13.1 - Ciclo de vida de componentes
