@@ -94,12 +94,12 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 - [X] 12.1 - _[Componentes com estado e eventos](https://github.com/anniehau/exercise-pokedex-state)_
 - [X] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [X] 12.3 - Projeto - Tryunfo
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [X] 13.1 - Ciclo de vida de componentes
+- [X] 13.2 - React Router
+- [ ] 13.3 - Projeto - TrybeTunes
 
 ##### Bloco 14: Metodologias Ágeis
 - [ ] 14.1 - Metodologias Ágeis
