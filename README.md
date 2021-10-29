@@ -99,14 +99,14 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
 - [X] 13.1 - Ciclo de vida de componentes
 - [X] 13.2 - React Router
-- [ ] 13.3 - Projeto - TrybeTunes
+- [X] 13.3 - Projeto - TrybeTunes
 
 ##### Bloco 14: Metodologias Ágeis
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [X] 14.1 - Metodologias Ágeis
+- [X] 14.2 - Projeto - Frontend Online Store
 
 ##### Bloco 15: Testes automatizados com React Testing Library
-- [ ] 15.1 - RTL - Primeiros passos
+- [X] 15.1 - RTL - Primeiros passos
 - [ ] 15.2 - RTL - Mocks e Inputs
 - [ ] 15.3 - RTL - Testando React Router
 - [ ] 15.4 - Projeto - Testes em React
