@@ -1,0 +1,1 @@
+Os exercícios nesso módulo foram todos feitos em dinâmicas e forks!
