@@ -82,7 +82,7 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 10-3: Jest - _Simulando comportamentos_
 - [X] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/anniehau/trybe-projects/tree/main/sd-015-b-project-jest)_
 
-## Desenvolvimento Front-end ::hourglass_flowing_sand::
+## Desenvolvimento Front-end ✔️
 
 ##### Bloco 11: Introdução à React
 - [X] 11.1 - Introdução - Front-end
