@@ -112,21 +112,31 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] 15.4 - Projeto - Testes em React
 
 ##### Bloco 16: Gerenciamento de estado com Redux
-- [X] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [X] 16.2 - Usando o Redux no React
-- [X] 16.3 - Usando o Redux no React - Prática
-- [X] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [X] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [X] 16.1 - Projeto - Jogo de Trivia
 
-##### Bloco 17: Projeto Jogo de Trivia
-- [ ] 17.1 - Projeto - Jogo de Trivia
+##### Bloco 17: Context API e React Hooks
+- [X] 18.1 - Context API do React
+- [X] 18.2 - React Hooks - useState e useContext
+- [X] 18.3 - React Hooks - useEffect e Hooks customizados
+- [X] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 18: Context API e React Hooks
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+##### Bloco 18: Projeto App de Receitas
+- [X] 19.1 - Projeto - App de Receitas
 
-##### Bloco 19: Projeto App de Receitas
-- [ ] 19.1 - Projeto - App de Receitas
+## Desenvolvimento Back-end :hourglass_flowing_sand:
+
+##### Bloco 19: Docker: Utilizando Containers
+- [X] 19.1 - Introdução - Back End
+- [X] 19.1 - Utilizando Containers - Docker
+- [X] 19.2 - Manipulação e Criação de Imagens no Docker
+- [X] 19.3 - Orquestrando Containers com Docker Compose
+- [X] 19.4 - Projeto - Docker Todo-List
+
+##### Bloco 20: Introdução à SQL
+- [X] 20.1 - Introdução - Back-end
+- [ ] 20.1 - Introdução - Bancos de dados relacionais
+- [ ] 20.1 - Banco de dados SQL
+- [ ] 20.2 - Encontrando dados em um banco de dados
+- [ ] 20.3 - Filtrando dados de forma específica
+- [ ] 20.4 - Manipulando tabelas
+- [ ] 20.5 - Projeto - All For One
