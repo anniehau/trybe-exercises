@@ -134,9 +134,39 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 
 ##### Bloco 20: Introdução à SQL
 - [X] 20.1 - Introdução - Back-end
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [X] 20.1 - Introdução - Bancos de dados relacionais
+- [X] 20.1 - Banco de dados SQL
+- [X] 20.2 - Encontrando dados em um banco de dados
+- [X] 20.3 - Filtrando dados de forma específica
+- [X] 20.4 - Manipulando tabelas
+- [X] 20.5 - Projeto - All For One
+
+##### Bloco 21: Funções SQL, JOINs e Normalização
+- [X] Funções mais usadas no SQL
+- [X] Descomplicando JOINs
+- [X] Transformando ideias em um modelo de banco de dados
+- [X] Aula ao vivo + Projeto - One For All
+
+##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+- [X] Intro - Node.js
+- [X] Node.js - Um motor JavaScript
+- [X] Node.js - Fluxo Assíncrono
+- [X] Mocha, Chai e Sinon - Testes de Back-end com Node.js
+- [X] Express - HTTP com Node.js
+- [X] Express - Middlewares
+- [X] Projeto - Talker Manager
+
+##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+- [X] Introdução - Arquitetura de Software
+- [X] Arquitetura de Software - Camada de Model
+- [X] Arquitetura de Software - Camada de Controller e Service
+- [X] Arquitetura Web - Rest e Restful
+- [X] Arquitetura de Software - Testando as Camadas
+- [X] Projeto - Store Manager
+
+##### Bloco 24: Introdução à SQL
+- [X] ORM - Interface da aplicação com o banco de dados
+- [X] ORM - Associations
+- [X] JWT - (JSON Web Token)
+- [X] Testando APIs com Testes de Integração
+- [X] Projeto - API de Blogs
