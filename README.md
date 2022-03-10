@@ -167,6 +167,6 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 24: Node.js: ORM e Autenticação
 - [X] ORM - Interface da aplicação com o banco de dados
 - [X] ORM - Associations
-- [ ] JWT - (JSON Web Token)
+- [X] JWT - (JSON Web Token)
 - [ ] Testando APIs com Testes de Integração
 - [ ] Projeto - API de Blogs
