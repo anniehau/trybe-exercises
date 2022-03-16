@@ -168,5 +168,10 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 - [X] ORM - Interface da aplicação com o banco de dados
 - [X] ORM - Associations
 - [X] JWT - (JSON Web Token)
-- [ ] Testando APIs com Testes de Integração
-- [ ] Projeto - API de Blogs
+- [X] Testando APIs com Testes de Integração
+- [X] Projeto - API de Blogs
+
+##### Bloco 25: Deployment
+- [X] Deploy com Heroku
+- [ ] Deploy Docker & Heroku
+- [ ] Projeto - Stranger Things
