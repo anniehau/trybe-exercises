@@ -173,5 +173,5 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 
 ##### Bloco 25: Deployment
 - [X] Deploy com Heroku
-- [ ] Deploy Docker & Heroku
+- [X] Deploy Docker & Heroku
 - [ ] Projeto - Stranger Things
