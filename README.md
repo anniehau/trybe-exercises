@@ -174,4 +174,18 @@ Nesse repositório, irei guardar todos os exercicios que [eu](https://www.linked
 ##### Bloco 25: Deployment
 - [X] Deploy com Heroku
 - [X] Deploy Docker & Heroku
-- [ ] Projeto - Stranger Things
+- [X] Projeto - Stranger Things
+
+##### Bloco 26: Typescript
+- [X] Introdução ao TypeScript
+- [X] Tipagem Estática e Generics
+- [X] Express com TypeScript
+- [X] Projeto - Trybe Smith
+
+##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+- [ ] Introdução à Orientação a Objetos
+- [ ] Herança e Interfaces
+- [ ] Polimofismo
+- [ ] SOLID - Introdução e Princípios S, O e D
+- [ ] SOLID - Princípios L e I
+- [ ] Projeto - Trybers and Dragons
