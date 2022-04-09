@@ -1,0 +1,2154 @@
+[33mcommit f138483abccef2ea2bf7b2eca931afecb52c7e60[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3e9ffe4 481a1ea
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Sat Apr 9 19:25:21 2022 -0300
+
+    Merge branch 'master' of github.com:anniehau/trybe-exercises
+
+[33mcommit 3e9ffe4f13e3363ddb550af13864809ffc4a56e1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Sat Apr 9 19:24:12 2022 -0300
+
+    Adiciona gitegnore para ignorar .env
+
+[33mcommit 481a1eaf85c7cb9d51ade7648943327e433ff1ac[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Sat Apr 9 19:24:12 2022 -0300
+
+    Remote .env do dia 25
+
+[33mcommit 51e54529b1b390b17bdd7a43e96d2cfe5cfa855e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Mar 30 06:15:22 2022 -0300
+
+    Modifica README
+
+[33mcommit 09904f85ed5eb2f9e2bef7ad4474c1a21dec9bb1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Mar 17 16:24:54 2022 -0300
+
+    Dia 25-2 adicionado
+
+[33mcommit 0980fa2f3e991a03bbc8b6502112376e152083c0[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Mar 16 19:17:12 2022 -0300
+
+    Dia 25-1 adicionado
+
+[33mcommit 63dfafa3e62d7dbddfebf267b964357ef0b05644[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Mar 10 17:42:09 2022 -0300
+
+    Dia 24-3 adicionado com README atualizado
+
+[33mcommit cdc76f6ae2d876309ab202eb8517b993a3414ba7[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Mar 9 01:23:04 2022 -0300
+
+    README atualizado
+
+[33mcommit 395f43725aaede5041d3433684e7cee905f19bc0[m
+Merge: 32314fd 9e96121
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Mar 9 01:22:17 2022 -0300
+
+    Merge branch 'master' of github.com:anniehau/trybe-exercises
+
+[33mcommit 32314fd16747714051d0f2cc67e9ada404997774[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Mar 9 01:22:05 2022 -0300
+
+    Dia 24-2 adicionado
+
+[33mcommit 9e961216d24499001b46a8d664e0cdc0276d4b08[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Mar 7 16:24:14 2022 -0300
+
+    Muda checkboxes e nome do bloco 24 no README
+
+[33mcommit 542f5c61f7b02192ca6b30d1584ec623b74bcd3f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Mar 7 16:23:02 2022 -0300
+
+    Dia 24-1 adicionado
+
+[33mcommit 5b054076ac668cdbedc89986f0eb0bc6e92f5884[m
+Merge: 43a7d46 5e2fc2e
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Mar 7 14:55:40 2022 -0300
+
+    Merge branch 'master' of github.com:anniehau/trybe-exercises
+
+[33mcommit 43a7d46c73efec808c0c52fde82ef61c9ee9f1d8[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Mar 7 14:55:30 2022 -0300
+
+    Edita README.md
+
+[33mcommit 5e2fc2ef0ff517f8a142cd90472a7d4188a18550[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Jan 25 01:01:15 2022 -0300
+
+    Atualiza README
+
+[33mcommit a391d50c2eecba7f0b238574834294cab72812d5[m
+Merge: ee44295 37106f6
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Jan 25 01:00:39 2022 -0300
+
+    Arruma erros de merge
+
+[33mcommit ee44295b4de5c8027f889bcca95cabcfc420fb28[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Jan 25 01:00:05 2022 -0300
+
+    Atualiza README
+
+[33mcommit 37106f6be063b9ad011fe7ca2c39cdad87e646f9[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jan 17 15:11:48 2022 -0300
+
+    Termina Front-End e adiciona Back-End no README
+
+[33mcommit d14f6bcbbce718a46370f2f651e26335299647a8[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Nov 18 21:26:50 2021 -0300
+
+    Edita README e adiciona um novo com a pasta do módulo 16
+
+[33mcommit 23e0d853cb189b7700c87a996b0f3057c5375637[m
+Merge: 27ebfdd 04b8fb4
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Oct 29 19:04:25 2021 -0300
+
+    Merge branch 'master' of github.com:anniehau/trybe-exercises
+
+[33mcommit 27ebfddd9a7342584850ff264a383559e08bdce5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Oct 29 19:02:44 2021 -0300
+
+    Adiciona 2 modulos anteriores e dia completo ao README.md
+
+[33mcommit 04b8fb40f3d4c762126c4d0e456f6d59144e87e8[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Oct 19 00:46:55 2021 -0300
+
+    Adiciona tryunfo
+
+[33mcommit bc5baecf2f9591e53556cbd87339db474fa0af16[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Oct 19 00:36:37 2021 -0300
+
+    Adiciona readme para o dia 1 e 2 do bloco 13
+
+[33mcommit 1b65ef2a7f9ae7ba43a0abb4f55e784f226cf035[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Sat Oct 9 01:45:25 2021 -0300
+
+    Adiciona dia 12-2 ao README
+
+[33mcommit b8ff080e05ec2b4a8cf67f24ba1d126c190e0761[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Sat Oct 9 01:44:49 2021 -0300
+
+    Adiciona um pouco de estilo a pagina
+
+[33mcommit 2a3742d9f7e533d421e90475a8e981567efc389e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Sat Oct 9 01:20:53 2021 -0300
+
+    Todos os requisitos completos e dia terminado
+
+[33mcommit 1bd48bef4e392c601042853fe5bef11710cf8ac5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Oct 8 23:34:59 2021 -0300
+
+    Exercicio 1 completo
+
+[33mcommit 53cd35b5b34f1b2f5970d0bd571cd1325865114a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Oct 8 03:05:38 2021 -0300
+
+    Adiciona dia 1 do bloco 12 completo
+
+[33mcommit 7318e5cba996fa3d18b2377b9503168b19e2224a[m
+Merge: ba7786e 04d1c07
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Oct 8 03:03:34 2021 -0300
+
+    Merge branch 'master' of github.com:anniehau/trybe-exercises
+
+[33mcommit 04d1c076330272b56670b9d9c489b93898549cfc[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Fri Oct 8 03:03:24 2021 -0300
+
+    Adicionado bloco 12 dia 1 completo
+
+[33mcommit ba7786e6a58e4289371923c0c923dabe4bee0182[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Oct 6 16:17:49 2021 -0300
+
+    Adiciona link para o Movie Cards Library
+
+[33mcommit a4baf680ee49f7c1a9564e1bffb8c98e32fd88f5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Oct 6 00:22:47 2021 -0300
+
+    Adiciona dia 2 ao README
+
+[33mcommit 09d0f0d40d34ea1bc44747e20f1e6c3b8fc2f179[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Oct 6 00:22:09 2021 -0300
+
+    Termina exercicio do dia
+
+[33mcommit 1e94a81952f8868fd22e62bc348540c3d5a0a87f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Oct 5 18:45:16 2021 -0300
+
+    Fixar 2 completo
+
+[33mcommit 8d4326fcde679ac2c203b4e8f6d5934f76f0a57c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Oct 5 16:25:00 2021 -0300
+
+    Adiciona fixar-1
+
+[33mcommit 63c6a98168b1b0baa48a0cbab55faef022a088e9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Oct 5 15:49:30 2021 -0300
+
+    Remove gitignore
+
+[33mcommit 7699a04dcf81bab3284bb19b5b76002b192ea915[m
+Merge: d5548f3 3766006
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Oct 5 15:47:09 2021 -0300
+
+    Merge necessário para poder fazer mudanças locais
+
+[33mcommit d5548f3e07bc238004d2a25edccaf829b92144a6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Oct 5 15:46:54 2021 -0300
+
+    Arruma pastas dentro do modulo 2 para conter dias 1 e 2 separados.
+
+[33mcommit 3766006f110244953d57356bb5eb82bbad1ae2c3[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Oct 4 20:52:11 2021 -0300
+
+    Remove links dos titulos de blocos
+
+[33mcommit 4589b265dff752a651bf3c853ac17775dfa89b16[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Oct 4 20:50:39 2021 -0300
+
+    Adiciona dia 11 para o README, muda pasta de 1-(...) para 11-(...)
+
+[33mcommit a29041721e68a4b11bec282d910644d2e1b86ff0[m
+Merge: 2afbf28 7c9679c
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Oct 4 20:46:13 2021 -0300
+
+    Merge pull request #29 from anniehau/exercises/11.1
+    
+    Modulo 2 iniciado e dia 1 completo!
+
+[33mcommit 7c9679cb97502f70a3ed550802f98793482bcd7f[m[33m ([m[1;32mexercises/11.1[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Oct 4 20:43:40 2021 -0300
+
+    Adiciona exercicio 3 completo.
+
+[33mcommit 89f3d49366326157009d563a36b8d5d2467b7d7f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Oct 4 20:20:34 2021 -0300
+
+    Adiciona exercicios 1-2 completos
+
+[33mcommit 84fc69805696f8f7e139d65360ec9bc7760fe516[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Oct 4 20:08:01 2021 -0300
+
+    Adiciona exercicio de fixação 1 do dia 1.
+
+[33mcommit 2afbf28395c639abb1efd0f166e825a83b785a85[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Oct 4 14:58:19 2021 -0300
+
+    Update README.md
+
+[33mcommit 4fdcd6d7b329fe766703d6ae112076928d0ddae9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Oct 4 14:54:08 2021 -0300
+
+    Adiciona modulo de front end com bloco2/dia1, e muda nome de pastas.
+
+[33mcommit 983266945e546614473cee22dff662f23760d3ef[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 24 03:42:50 2021 -0300
+
+    Adiciona dia 10.3 para o README
+
+[33mcommit 00eae7f04fd81c37b2eacc439362e1946474e683[m
+Merge: a513ed4 6a350f2
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Fri Sep 24 03:39:50 2021 -0300
+
+    Merge pull request #28 from anniehau/exercises/10.3
+    
+    Exercises/10.3
+
+[33mcommit 6a350f294e849fbe86cdb8a5a58aa3f09a73922b[m[33m ([m[1;32mexercises/10.3[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 24 03:38:26 2021 -0300
+
+    Adiciona exercicio 6 completo. Dia terminado.
+
+[33mcommit 7898ea44314460eda6b009c491df6f3232c6a50e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 24 02:20:47 2021 -0300
+
+    Adiciona exercicio 5 completo.
+
+[33mcommit ec92f894ef9114843c9abb2a2231d3798955cce7[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 24 02:19:29 2021 -0300
+
+    Adiciona exercicio 4 completo.
+
+[33mcommit ff2ae37008a241adb11e7a4438b93db63e042aae[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 24 02:13:47 2021 -0300
+
+    Adiciona exercicio 4 completo.
+
+[33mcommit a289b9e13c676be2ba50404bc5ff6bd12b8ce007[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 23 23:23:53 2021 -0300
+
+    Adiciona primeiro teste para exercicios 1, 2 e 3
+
+[33mcommit bbda0e4af84f8507e02602285db2f12fa5e1bd0d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 23 16:43:49 2021 -0300
+
+    Adiciona os exercicios de fixaçao completos
+
+[33mcommit 9a1e98a08cb55efda6b9bf4cc13cb76a30cd9f6d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 23 16:00:43 2021 -0300
+
+    Adiciona math.js (exercicio de fixação) com jest instalado.
+
+[33mcommit a513ed46bdddc1c7970ea3d8c9242270d1ad2751[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 22 20:53:17 2021 -0300
+
+    Adiciona dia 10-2 para o README
+
+[33mcommit 235e6b7310e7277f53da9d6ce2e2808abaced76f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 22 20:52:35 2021 -0300
+
+    Arruma nome das pastas e adiciona dia 10.2 para o README
+
+[33mcommit db8820e9b67b3065afccb85a066e469919431e6c[m
+Merge: 93ee0f9 6e0607b
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 22 20:45:11 2021 -0300
+
+    Merge pull request #27 from anniehau/exercises/10.2
+    
+    Exercises/10.2
+
+[33mcommit 6e0607b1d49919c022456090748c3aa20b5d2949[m[33m ([m[1;32mexercises/10.2[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 22 20:44:43 2021 -0300
+
+    Exercicios 5 e 6 completos
+
+[33mcommit 1a6ae8976d43ef24513b8bcd99d50076d6158518[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 22 20:21:25 2021 -0300
+
+    Adiciona exercicios 1 ate 4
+
+[33mcommit 93ee0f98cf7af68c3038a0208df923306282d637[m
+Merge: f8b0759 28082a4
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 22 18:22:39 2021 -0300
+
+    Merge branch 'master' of github.com:anniehau/trybe-exercises
+
+[33mcommit f8b0759b59563dc7d2e91c767d165807584559bb[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 22 18:22:25 2021 -0300
+
+    Inicia o dia 10.2
+
+[33mcommit 28082a4ae2c6f171d955575bd3e92a1c0b5bba3a[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 22 03:11:25 2021 -0300
+
+    Arruma link do Jest Assíncrono e Mocking
+
+[33mcommit b57dd01a984cea737fc3391c2f0f301f0db41a89[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 22 03:11:00 2021 -0300
+
+    Arruma o link do carrinho de compras
+
+[33mcommit b54e81b2a01970d176369fe71169444fab83c6b2[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 22 03:10:16 2021 -0300
+
+    Update README.md
+
+[33mcommit 7db860b233c895751ea4e8331a446818e6c5254a[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 22 01:27:31 2021 -0300
+
+    Adiciona bloco 9 e 10 para o README
+
+[33mcommit 4d79a6fced6571a68c04afcda3bea81534995e79[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Sep 21 23:46:30 2021 -0300
+
+    Update README.md
+
+[33mcommit 8cbe4510516af63ad27386c56973a752c88c215d[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Sep 21 23:44:30 2021 -0300
+
+    Update README.md
+
+[33mcommit 11b22b185975e90e1053d223eeeb72be9f0d435f[m
+Merge: b13cd7e c60c071
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Sep 21 21:40:49 2021 -0300
+
+    Merge pull request #26 from anniehau/exercises/10.1
+    
+    Dia 10.1
+
+[33mcommit c60c071074925b973a21f739e6af74aa65cebf20[m[33m ([m[1;32mexercises/10.1[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Sep 21 21:40:30 2021 -0300
+
+    Adiciona exercicios da parte 2 completos.
+
+[33mcommit c5510e8cc4a26103e96cf4883c106f5acfcce2ce[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Sep 21 21:04:00 2021 -0300
+
+    Parte 1 dos exercicios completa
+
+[33mcommit 8cacf7bbab4f8b17f9c176cffd9dfc6cb2b7371c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Sep 21 16:48:16 2021 -0300
+
+    Adiciona novo gitignore, ignorando node_modules
+
+[33mcommit be75df6f09ff1a1b36201d5245590432a376b5fc[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Sep 21 16:46:29 2021 -0300
+
+    Deleta node_modules
+
+[33mcommit dac371bb4f6024f96a6f0c9356b626b600de4b70[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Sep 21 15:37:16 2021 -0300
+
+    Adiciona arquivos para fixaçao
+
+[33mcommit e18974af975ee1239526cc65ebe52185072a97c6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Sep 21 15:19:40 2021 -0300
+
+    Adiciona arquivos de preparação para o Jest.
+
+[33mcommit b13cd7e088e2893a692dfc4dac883b8ecf5001dc[m
+Merge: 6511877 4bd722d
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Thu Sep 16 19:28:46 2021 -0300
+
+    Merge pull request #25 from anniehau/exercises/9.2
+    
+    Exercises/9.2
+
+[33mcommit 4bd722dca5932263ce6ca524c1a10262c73b0939[m[33m ([m[1;32mexercises/9.2[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 16 19:28:23 2021 -0300
+
+    Exercicio 5 ajeitado
+
+[33mcommit 6810b2b42b2ed4a32ccca13a2f4ce59a0837d072[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 16 19:24:43 2021 -0300
+
+    Exercicio 3, 4 e 5 completo
+
+[33mcommit 9a11bbf99719395e4356407680c2207dddc318a4[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 16 19:08:02 2021 -0300
+
+    Exercicio 2 completo
+
+[33mcommit 87485e3cf1d8bbba093111fcf4f7c4c5d3741b66[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 16 15:55:42 2021 -0300
+
+    Adiciona os exercicios de fixaçao sem o node instalado na pasta pois estava dando problema
+
+[33mcommit 65118779853755d99a93c72b143200f5723ad1ca[m
+Merge: d0aad7b 01fa276
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 15 19:23:09 2021 -0300
+
+    Merge pull request #24 from anniehau/exercises/9.1
+    
+    Exercises/9.1
+
+[33mcommit 01fa2763dea9fdc7af33207cf0b70a3a91d2d81e[m[33m ([m[1;32mexercises/9.1[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 15 19:20:20 2021 -0300
+
+    💣💣💣 (exercicios do dia 9.1 terminados)
+
+[33mcommit 85178f6b9acd04c218cedeba23fdbdf9d2a38f63[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 15 16:13:54 2021 -0300
+
+    Adiciona pastas do bloco 9, dia 1 e fixar-1.js, fixar-2.js
+
+[33mcommit d0aad7b9cd1e57a2ebd437695c95782a035401e1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:46:57 2021 -0300
+
+    README atualizado com dia 8.5
+
+[33mcommit 91d99b0eb631f7f31310379ebfed5df66139934a[m
+Merge: 10974ba af2788f
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Fri Sep 10 18:46:01 2021 -0300
+
+    Merge pull request #23 from anniehau/exercises/8.5
+    
+    Exercises/8.5
+
+[33mcommit af2788f180fbf66e8510f5d51c4e292d2b3890be[m[33m ([m[1;32mexercises/8.5[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:40:52 2021 -0300
+
+    Exercicio 8 completo e erros de lint arrumados.
+
+[33mcommit 6d60423c2de33eb67568c0f0782f6a88663b98dd[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:38:26 2021 -0300
+
+    Exercicio 7 completo.
+
+[33mcommit 13bfe7255bc1dd09ab755c73d9a212091aa4eadc[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:36:08 2021 -0300
+
+    Exercicio 6 completo.
+
+[33mcommit d7feee703622e8598563edf7acdaeb649a2ac492[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:34:24 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 2abb8f64996edc1816e02651a3f0f80183c56a8e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:32:43 2021 -0300
+
+    Exercicio 4 completo.
+
+[33mcommit a03b14443808375a723c0653e55000468423faad[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:23:27 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 8851428383c1a61ba5169a138ef4cbe4fbaeb8dc[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 18:20:12 2021 -0300
+
+    Exercicio 1 e 2 completo.
+
+[33mcommit 50602e143e4a144755b61624dfb041c9129b9bc3[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 16:12:17 2021 -0300
+
+    Adiciona todos os exercicios de fixacao completos.
+
+[33mcommit ba5c47eb91c6cd1e746a13fb576263092afd8296[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 10 15:56:35 2021 -0300
+
+    Inicia o dia 8.5 criando sua pasta
+
+[33mcommit 10974bac0f334b533b0a1957246ce48bb024ca72[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 19:24:35 2021 -0300
+
+    README atualizado com dia 8.4.
+
+[33mcommit 7cb655de8cc2c865f2af83666c407243984f7e45[m
+Merge: 40e9eed 44ad6fb
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Thu Sep 9 19:23:36 2021 -0300
+
+    Merge pull request #22 from anniehau/exercises/8.4
+    
+    Exercises/8.4
+
+[33mcommit 44ad6fb38976f21f1584d40a472e8a2494085314[m[33m ([m[1;32mexercises/8.4[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 19:23:05 2021 -0300
+
+    Exercicio 6 completo.
+
+[33mcommit 31fe6128289fc8332a3cb6336473d3d355bbe82f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 19:08:57 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 93471764254f7f358df43e4a4a4add5333e9c335[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 18:28:28 2021 -0300
+
+    Exercicio 4 completo.
+
+[33mcommit 2f59a00be079e4ebf69f3a7e13d8d65d4a388893[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 16:17:18 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 2687be642c449ee85378f40fd6eb1d94a90a5225[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 16:09:48 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit 9142f5e9b51e335c761411c1d7dc08bdc0aa6271[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 15:49:34 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit b8001c4c14bd93e8503c715939ed6587dfb4b806[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 15:36:30 2021 -0300
+
+    Adiciona fixar-02 com exercicio de encontrar melhor materia completo.
+
+[33mcommit afd383e62d8d236beeb46d6af68b00fbc98acb29[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 9 15:12:00 2021 -0300
+
+    Adiciona fixar-01 com alguns exercicios de fixaçao de reduce.
+
+[33mcommit 40e9eed9b6f85670ae6969b4eb9e4dccd5af6163[m
+Merge: 9b74c44 176757a
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 8 17:09:08 2021 -0300
+
+    Merge pull request #21 from anniehau/exercises/8.3
+    
+    Exercises/8.3
+
+[33mcommit 176757aab1523e479eb23264951b78bc7b840a70[m[33m ([m[1;32mexercises/8.3[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 17:04:56 2021 -0300
+
+    Codigo dos exercicios 8.3 refatorado e README atualizado com dia 8.3
+
+[33mcommit ffa8ab938788b4d3e3516b89a0c6d956bc453f40[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 17:01:57 2021 -0300
+
+    Melhorado o lint e a legibilidade do codigo de todos os exercicios. Exercicio 7 tambem refatorado.
+
+[33mcommit ccc715c3d3e0dd37dd2db46c3df9c26d029ff666[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 16:46:24 2021 -0300
+
+    Exercicio 7 completo.
+
+[33mcommit 0ce5b22cee83d54738a51da9f7d0d482da3c8575[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 16:29:19 2021 -0300
+
+    Exercicio 6 completo.
+
+[33mcommit b14131adfefae0ec2f400fd8100b4ad5f736bd2f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 16:27:06 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 1f26f88ebfa2dac8508a21a18e13c1a640668ab4[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 16:16:50 2021 -0300
+
+    Exercicio 4 completo.
+
+[33mcommit 9e0e6a8d7e38371ad255eb67ff044a298636983d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 16:05:27 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 0fd5c0383880e0c549904bf7c2da20813ee46c96[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 15:57:39 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit b32cb42d157208857d1f6402774afbf9c789c7b9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 15:51:12 2021 -0300
+
+    Adiciona exercicios 2 ate 7 incompletos.
+
+[33mcommit 3951e4075dafe1f802bd9710a4000b3f15b71d49[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 15:49:56 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit 81fb06c1d48efee10cec4d46aa33cb86e6d5cd02[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 15:33:03 2021 -0300
+
+    Adiciona fixar-01.js na pasta do dia 8.3.
+
+[33mcommit 9b74c443ce3ffbb14930f8560147b2e1669f26b4[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 8 15:07:15 2021 -0300
+
+    Inicia dia 8.3 e adiciona fixar-01.js na pasta do dia.
+
+[33mcommit 3a0c91a562b386214957959e7c01f16494ad9fd8[m[33m ([m[1;32mexercises/8.2[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 20:51:09 2021 -0300
+
+    Readme atualizado com dia 8.2
+
+[33mcommit eb41fd23b8bef54b15bd20ff224c4ad982a70a1e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 19:53:28 2021 -0300
+
+    Exercicio 7 completos.
+
+[33mcommit 0c65c602e5de0bab7ff698a16c47947b7c30d51b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 19:20:55 2021 -0300
+
+    Exercicio 5 e 6 completos.
+
+[33mcommit c9a7f57bf1fcd465ac27f3c5f402acf1654da875[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 19:14:09 2021 -0300
+
+    Arruma codigo do exercise3.js adicionando expectedResult.
+
+[33mcommit e60e86633b3b491b36ba0705e45b2d08c9e5f3ab[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 19:13:15 2021 -0300
+
+    Exercicio 4 completo e exercicios todos separados em arquivos diferentes.
+
+[33mcommit 391820098cd61bf30297042c0e43f44fc79c1d34[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 19:05:21 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 0fe3c8b6d3723ad499a2039746869c82706b27b8[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 19:03:01 2021 -0300
+
+    Exercicio 1 e 2 completos.
+
+[33mcommit 709d1c52b73c4202cb93e35108de84a0093cf670[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 18:55:13 2021 -0300
+
+    Adiciona sortAges para fixar, com sortAgesInverted tambem dentro.
+
+[33mcommit 62f9c6e2fa88e2d93b0a3e0717fc068fe779b00b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 16:21:50 2021 -0300
+
+    Adiciona verifyAges.js para fixar.
+
+[33mcommit 6fbb712c38dcec9bcd70c8213e2a3d7f817177df[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 16:19:45 2021 -0300
+
+    Adiciona hasName.js para fixar.
+
+[33mcommit ca7437671a0a21e9bf9e78e65e290180f6fa366b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 16:13:51 2021 -0300
+
+    Adiciona findMusic.js para fixar.
+
+[33mcommit 32983240a67ed7a7ae627ee0f0807aaae7ef591e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 16:05:20 2021 -0300
+
+    Adiciona findDivisibleBy3And5.js para fixar.
+
+[33mcommit 84ad08637aa9bb5d05616d3b0e3314443340c3c2[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Sep 3 15:47:06 2021 -0300
+
+    Adiciona dia 8.1 e fixar com emailList completo.
+
+[33mcommit 7c20e7433aeb2d67d2fe637881b10618e6e12bdb[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 19:13:22 2021 -0300
+
+    Adiciona dia 8-1 para o README.
+
+[33mcommit be0facdd5b65f07c3ec8c7cfe2fb674fc22ab0df[m
+Merge: 4142a88 389f26b
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Thu Sep 2 19:12:24 2021 -0300
+
+    Merge pull request #20 from anniehau/exercises/8.1
+    
+    Exercises/8.1
+
+[33mcommit 389f26b11f382b0695e39ba6b19e909963f0d7f4[m[33m ([m[1;32mexercises/8.1[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 19:11:22 2021 -0300
+
+    Exercicio Bonus Parte 2 completo.
+
+[33mcommit cc14fc6c8b4714eb9ca98d1c4ffd811e33b3434b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 18:10:34 2021 -0300
+
+    Exercicio Bonus 1-3 completo.
+
+[33mcommit 784d82b138eb101ca7f3936eeb9915da9aae4865[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 18:05:18 2021 -0300
+
+    Exercicio Bonus 1-2 completo.
+
+[33mcommit 43fc1cb310a181799319b48b431327b76272438f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 18:03:02 2021 -0300
+
+    Exercicio Bonus 1-1 completo.
+
+[33mcommit ed2e494d5ffc5d9fcb01f0eda7ea155bdd4cb864[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 17:58:58 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 1105a9f2e7a5b21cf9266ea4babd74891517fa14[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 16:27:08 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit 5361d2d6de5d5063f88f98b917578bf833274e52[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 16:10:34 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit 7472142ca403c2c4d6723c7c593ca87d91f6170c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Sep 2 16:02:48 2021 -0300
+
+    Iniciando o bloco 8 dia 1, adicionando fixar-01 com script.js completo.
+
+[33mcommit 4142a88e32eff7f83fec7f0417b96b83ca89eaf6[m
+Merge: de0b41a f970d58
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Sep 1 19:45:55 2021 -0300
+
+    Merge pull request #19 from anniehau/exercises/7.3
+    
+    Exercises/7.3
+
+[33mcommit f970d58a3424ed6aea84f42e39d1474abb5f266b[m[33m ([m[1;32mexercises/7.3[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Sep 1 19:45:41 2021 -0300
+
+    Adiciona pequenos ajustes aos exercicios 7.3, e README.md editado para conter o projeto de 7.4 e o bloco 8 ainda não iniciado.
+
+[33mcommit 2cf463d088d8b8ee693f730b6a2bdd7768197ac2[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 20:03:35 2021 -0300
+
+    Exercicio 4 ajeitado para ser mais simples.
+
+[33mcommit 99613fb4b85da30cd7ae13cc31831abd9591c99a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 20:02:10 2021 -0300
+
+    Exercicios 3-3 e 3-4 completos.
+
+[33mcommit 5c75426ef7050295f7c9e78f740a86c0e3517128[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 19:45:33 2021 -0300
+
+    Pasta parte-3 adicionada com exercicio 3-2 completo.
+
+[33mcommit bd522f5c99d71b5edaf41120b5512e0334aea43e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 19:39:16 2021 -0300
+
+    Pasta parte-3 adicionada com exercicio 3-1 completo.
+
+[33mcommit 2b940c2b0e894c5a6456a4516e8402079dbe27b6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 19:29:35 2021 -0300
+
+    Exercicio 2-4 completo.
+
+[33mcommit 6209e0e9765cb6de52c9154abed3c8fe861c8203[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 19:26:20 2021 -0300
+
+    Exercicio 2-3 completo.
+
+[33mcommit 3de357dc2616bac14993c92b573f50eb3ebc9682[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 19:24:55 2021 -0300
+
+    Exercicio 2-2 completo.
+
+[33mcommit 0555e46ef82bc3296e07cee9b904a88a5692604a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 19:13:22 2021 -0300
+
+    Adiciona pasta para parte-2 com exercicio 1 dentro e completo.
+
+[33mcommit 119b8df8d3eb6835005a5146196dfb48dbbdef39[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 18:59:31 2021 -0300
+
+    Adiciona exercicios da parte 1 para a pasta nova parte-1.
+
+[33mcommit b196f086adb4b532deff701e028803053e3adc59[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 18:56:25 2021 -0300
+
+    Adiciona exercicio 5 completo.
+
+[33mcommit a1a0aaf0b2305f23f7d8b0532d20477681387734[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 18:27:32 2021 -0300
+
+    Adiciona exercicio 4 completo.
+
+[33mcommit 5aa264462ecc770ff70be6f5dec0db7b96269a8e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 18:21:53 2021 -0300
+
+    Adiciona exercicio 3 completo.
+
+[33mcommit eb2e340fa1d2fb0ecc144a0d5015db9ba4be24f0[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 15:39:20 2021 -0300
+
+    Adiciona exercicio 2 completo.
+
+[33mcommit 12c86d597a321f6b881d287a4c20aa687c755174[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 15:30:37 2021 -0300
+
+    Adiciona exercicio 1 completo.
+
+[33mcommit 4c5099f27976e11e9fe2c06ea5af4d6857c20d37[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 31 14:55:17 2021 -0300
+
+    Adiciona fixar-01 a pasta.
+
+[33mcommit de0b41a76f74a8b4bc5d988c3c21039330752025[m
+Merge: 89e05f2 cd23a1c
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Aug 30 19:57:01 2021 -0300
+
+    Merge pull request #18 from anniehau/exercises/7.2
+    
+    Exercises/7.2
+
+[33mcommit cd23a1ce949efa15b2dd8ead0ceac272f1931324[m[33m ([m[1;32mexercises/7.2[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 19:56:20 2021 -0300
+
+    Exercicio bonus 2 completo utilizando um for novamente, porem usando objeto ao invez de variavel para acrescentar resultados.
+
+[33mcommit 08c7868c36a25544447ba04a5e6dbaabe70e5d8e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 19:53:26 2021 -0300
+
+    Exercicio bonus completo utilizando array e for, com if dentro do for.
+
+[33mcommit 4c72e7fe032d450460f7a59e84d73403c41a1103[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 19:47:32 2021 -0300
+
+    Exercicio 8 completo com um simples if.
+
+[33mcommit edd40a2641939594942a6b238b94812765c4934e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 19:36:51 2021 -0300
+
+    Exercicio 7 completo utilizando transformaçao em array com Object.values.
+
+[33mcommit bef756ee0127fc743c13b1388284dffe3b8ddfb1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 19:34:42 2021 -0300
+
+    Adiciona Parte 2 - Exercicios 1-6 completos e nome de exercice1.js mudado par aexercices1.js.
+
+[33mcommit 2e9820cd2d4fb7cbd9978184482f985f4aff7dd3[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 19:07:45 2021 -0300
+
+    Adiciona exercicios da Parte I completos.
+
+[33mcommit 8cb90032ed995aaca26e5e2179eed32b3f3e251d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 15:09:49 2021 -0300
+
+    Adiciona fixar-02.
+
+[33mcommit b5dd49d100d9841b592a01c1b9d28a24031105f5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 30 14:47:07 2021 -0300
+
+    Adiciona dia 7.2 com fixar-01 completo.
+
+[33mcommit 89e05f2d2b0426798a1ca4e99f4d6594c4421e9c[m
+Merge: 5bf88bb 625504e
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Fri Aug 27 18:23:31 2021 -0300
+
+    Merge pull request #17 from anniehau/exercises/7.1
+    
+    Exercises/7.1
+
+[33mcommit 625504eb570da252e9175c41ff33e24094cb3102[m[33m ([m[1;32mexercises/7.1[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 27 18:23:04 2021 -0300
+
+    Adiciona link interno do Github para o projeto 6-6.
+
+[33mcommit cc7672f9292a0321470ce111989e4854b9c12b68[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 27 18:20:45 2021 -0300
+
+    Adiciona 6-6 e bloco 7 para README.md, com 7-1 completo.
+
+[33mcommit 3dfaed036ce8f6a6644675a03e864c5d39e8ff8d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 27 18:18:10 2021 -0300
+
+    Exercicios 3 e 4 completos e dia terminado.
+
+[33mcommit c67f183aaa3f917c6372afe6211fa9fa1c2d831d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 27 16:15:48 2021 -0300
+
+    Exercicio 2 completo utilizando ternary operator.
+
+[33mcommit 24a24988e646ee94671abf9b47b211a21aa8138d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 27 16:07:12 2021 -0300
+
+    Adiciona bloco 7, dia 7.1 e exercicio 1 completo.
+
+[33mcommit 5bf88bb159d6aea5b9a9947702f155d39051f0aa[m
+Merge: cc5a356 cca5337
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Aug 24 19:46:23 2021 -0300
+
+    Merge pull request #16 from anniehau/exercicios/6.5
+    
+    Exercicios/6.5
+
+[33mcommit cca5337d0a25041e5eb5c10800518c3a7649ddd6[m[33m ([m[1;32mexercicios/6.5[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 19:45:49 2021 -0300
+
+    Exercicio 3 adicionado e completo com media print e layout para celular
+
+[33mcommit 423f8ce7ad1c35e8970626c9f27d6ec6db6cba1c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 19:26:04 2021 -0300
+
+    Layout de pc completo
+
+[33mcommit 85a2b3ca1f05b3af0e5e1079be8660a673047752[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 18:45:27 2021 -0300
+
+    Layout de tablet completo
+
+[33mcommit fef4977a0b17944468453508ac7616ab91a71e43[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 18:31:28 2021 -0300
+
+    Layout de celular completo no css
+
+[33mcommit e8225c381a49e7ae5faab80953a5ae4814cef4f4[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 16:04:20 2021 -0300
+
+    Adiciona media screen para 1200px com muitos elementos mudados
+
+[33mcommit c6f0d3d8faf81e3252c120994112679da50a3deb[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 15:57:05 2021 -0300
+
+    Adiciona media screen para 800px com flex e outras coisas
+
+[33mcommit 06ed1003b7fafe2e99ce66db46182dc0932ac550[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 15:37:36 2021 -0300
+
+    Adiciona 15 de margem para a pagina, completando exercicio 4
+
+[33mcommit cd10fa31f58a06a4841dcfdf100169c506b2cfca[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 15:36:48 2021 -0300
+
+    Adiciona margin vertical para espacar as figuras, completando exercicio 3
+
+[33mcommit 826cba41293f768e05ced8f15bc641a7e40cb905[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 15:35:53 2021 -0300
+
+    Adiciona tamanho de fonte menor para h1, completando exercicio 2
+
+[33mcommit 50e22686ff624e97976cab7c3a3f255c1c7a2d0e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 15:35:20 2021 -0300
+
+    Inicia exercicios, e adiciona menor tamanho de fonte para o exercicio 1-1
+
+[33mcommit 5ff4ad92a3be84416494085a734d59b94fad78f6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 24 15:16:23 2021 -0300
+
+    Adiciona fixar-01 com exercicios completos.
+
+[33mcommit cc5a3562e97dc4f06690c20b174e73e8b1ce861b[m
+Merge: 796ec21 95eeec7
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Aug 23 21:36:07 2021 -0300
+
+    Merge pull request #15 from anniehau/exercicios/6.4
+    
+    Exercicios/6.4
+
+[33mcommit 95eeec731c0bb000bad879cac42193936935c049[m[33m ([m[1;32mexercicios/6.4[m[33m)[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:35:48 2021 -0300
+
+    Adiciona dia 6.4 para README.md
+
+[33mcommit eac5ec72583660938f326937c9d6558205dfe66f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:34:48 2021 -0300
+
+    Exercicio 2-5 completo
+
+[33mcommit c37579c61cdee7ea6159ca1f11e2e3c1a2629341[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:34:30 2021 -0300
+
+    Exercicio 2-4 completo
+
+[33mcommit 8d70baca70bd6b281514b5a02d0afd9a904703dc[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:31:41 2021 -0300
+
+    Exercicio 2-3 completo
+
+[33mcommit 10e6148af2d33575cf40c9f387dd77d87d1f1544[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:30:56 2021 -0300
+
+    Exercicio 2-2 completo
+
+[33mcommit b126cf7ecfd734c6336a6322e7cf2afa0643e18f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:28:37 2021 -0300
+
+    Exercicio 2-1 completo
+
+[33mcommit bb3b5047bd1e772823eb3308ddb1d361a9faaad3[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:28:06 2021 -0300
+
+    Adiciona exercicios 2-x
+
+[33mcommit 74d5c0c7caaa822b84761a171fe5b9f6dd4e216c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:27:23 2021 -0300
+
+    Exercicio 4 completo
+
+[33mcommit 7df3cbfb94a9985237eb1c9b6eb887b53bf10b98[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:25:58 2021 -0300
+
+    Exercicio 3 completo
+
+[33mcommit 537a718deb182b62261c35acf24bc06e678cec77[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:19:40 2021 -0300
+
+    Exercicio 1-2 ajeitado
+
+[33mcommit aab8a6ef7c768eb89948a385dc9e547297ec6124[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:18:07 2021 -0300
+
+    Exercicio 1-2 completo
+
+[33mcommit 234c36fca789dc04869fda1d9923a9b03545475d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 21:17:06 2021 -0300
+
+    Exercicio 1-1 completo
+
+[33mcommit a78433c9be41f821248ae34263a553f1ebccc46e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 15:20:12 2021 -0300
+
+    Adiciona fixar-03.
+
+[33mcommit 5b7d461cf10da2f22b4cfef1581808ca0b2caad2[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 15:04:10 2021 -0300
+
+    Adiciona fixar-02.
+
+[33mcommit 8585acfec4cc89b766c8ca2222e74f3fd4b8ada8[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 23 14:49:23 2021 -0300
+
+    Adiciona dia 4 e fixar-01.
+
+[33mcommit 796ec215fc21eec042f32a85945d7f906a8fcd74[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 20 19:45:09 2021 -0300
+
+    Adiciona projetos para README.md.
+
+[33mcommit da10a36c5f36cd00522e1a6a37c890c8347d6447[m
+Merge: 5b49375 01d7d58
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Fri Aug 20 19:13:13 2021 -0300
+
+    Merge pull request #14 from anniehau/exercicios/6.3
+    
+    Exercicios/6.3
+
+[33mcommit 01d7d58f069f10f5dfcec54d12b1f8c8e7cfa6b6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 20 19:10:29 2021 -0300
+
+    Adiciona bloco 6 e compleção do bloco 5 para README.md.
+
+[33mcommit 1131ae55821077f0cc6c90f405076d3697fc8c81[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 20 15:51:09 2021 -0300
+
+    Adiciona fixar-02 e fixar-03.
+
+[33mcommit 13a1872a6ad973b97a3cbec766f62f8546ee7b23[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Aug 20 15:08:13 2021 -0300
+
+    Adiciona dia 6.3 com fixar-01.
+
+[33mcommit 5b49375a5e197bb1de1fb33e4abd4f5ed0fd81d9[m
+Merge: c6029be c80a95c
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Thu Aug 19 20:03:18 2021 -0300
+
+    Merge pull request #13 from anniehau/exercicios/6.2
+    
+    Exercicios/6.2
+
+[33mcommit c80a95c9163fe91276afc3c2f953e028fdbdcbfe[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 19 20:02:42 2021 -0300
+
+    Adiciona validacao para o forms. Dois problemas permanecem: validacao da data e validacao do radio que esta bugado.
+
+[33mcommit 9ac4b09b231b127a15d4befa972e98f46ec36762[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 19 18:57:32 2021 -0300
+
+    Adiciona pikaday e configura formato da data.
+
+[33mcommit 3b5ab5d4332f0b66b051df4adb4295bcc475ea6d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 19 18:48:28 2021 -0300
+
+    Adiciona bootstrap, remove style antigo e modifica a pagina para ter Layout de bootstrap.
+
+[33mcommit c6029be0850917d94418180345f60f3d1ff54ff8[m
+Merge: 1a8a357 0ee8a50
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Aug 18 22:12:58 2021 -0300
+
+    Merge pull request #12 from anniehau/exercicios/6.1
+    
+    Exercicios/6.1
+
+[33mcommit 0ee8a5093d5ae0b61dc5de812953369308d76248[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 18 22:12:33 2021 -0300
+
+    Adiciona exercicios mais ou menos completos e encerra o dia.
+
+[33mcommit 8bab84a09b1439bfc5c52f5d960681b189033f0d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 18 21:00:34 2021 -0300
+
+    Adiciona exercicio 1 completo e esqueleto do site com html/css feito.
+
+[33mcommit 3c78cb5a822f3c1ba1671b225c4741f986f77c9c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 18 15:54:25 2021 -0300
+
+    Adiciona bloco 6, dia 1 e fixar-01.
+
+[33mcommit 1a8a3572bd3242bf1b418385921593ce064d0647[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 20:24:34 2021 -0300
+
+    Adiciona funcionalidade de Web Storage
+
+[33mcommit 5a59ca0cec9c15b644abf249efbddb3f4f8d3938[m
+Merge: efae135 ae55322
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Thu Aug 12 19:53:21 2021 -0300
+
+    Merge pull request #11 from anniehau/exercicios/5.4
+    
+    Exercicios/5.4 - Completos
+
+[33mcommit ae553229de8b13f5e29770c5360f0a22742489ea[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 19:51:31 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 017189a6baefad386981c8f01056a2cc6b49a49d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 19:45:49 2021 -0300
+
+    Exercicio 4 completo.
+
+[33mcommit 0424a6990e2983c9917e7cd68b5bf538318e3269[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 19:34:03 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 155c52beb9c2700f14aba4622010563951a066d8[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 19:22:41 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit 5e2c086cc4fe2906bc98316fbbc338f34af2bc2c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 19:22:30 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit a4e81a92a408bc90d9e309073bc7b23a089f3381[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Aug 12 15:12:49 2021 -0300
+
+    Dia 5.4 adicionado e fixar-01 também adicionado.
+
+[33mcommit efae1358e6e00ab20ce70115f79acf366cbc80bf[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 20:43:21 2021 -0300
+
+    Adiciona 5-3 em README.md.
+
+[33mcommit 7c4c2f3d62b58712c8c051fce66065f9d6f799ce[m
+Merge: c514afb 8766ebf
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Wed Aug 11 20:41:59 2021 -0300
+
+    Merge pull request #10 from anniehau/exercicios/5.3
+    
+    Exercicios/5.3 Completos
+
+[33mcommit 8766ebf1786a2ce6b4323b66bf1e5cf95c5cc4fe[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 20:41:28 2021 -0300
+
+    Exercicio Bonus completo.
+
+[33mcommit 667761c73c4c3fa4605613ea1a16504b4666fed6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 20:27:14 2021 -0300
+
+    Exercicio 10 completo.
+
+[33mcommit a020f32589a123669735cd45feeae68d3a859fe7[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 19:58:59 2021 -0300
+
+    Exercicio 9 completo.
+
+[33mcommit dcf89b311d34a803f21e871be5d1916ad1bc3bd5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 19:51:22 2021 -0300
+
+    Exercicio 8 completo.
+
+[33mcommit 6cd27523d8bdfebeaf82b39b5502651c065ec12a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 19:45:12 2021 -0300
+
+    Exercicio 7 completo.
+
+[33mcommit da4744179bb0aa7b058dd27b12f773ee8bf7c872[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 19:38:37 2021 -0300
+
+    Exercicio 6 completo.
+
+[33mcommit c28128603772bc6673663df3f3eb59099f935e30[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 19:25:56 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 8ce81234cab10b5754d1d535c4c93911a9e2e443[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 18:54:51 2021 -0300
+
+    Exercicio 4 completo.
+
+[33mcommit 04725b681f6f3428ef568653bc7afa76e2c9d280[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 18:49:29 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 8941f455195a426103ed2d1749154565e8acb19d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 18:33:05 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit 0837c04494869288ea400371bb350c92aa4a1480[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 18:32:52 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit fe03f436c07d44530534cb882f385d4b11ac72c8[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 18:32:15 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit 4dae9e60ccd3a3c91d05e00ec071060af415a296[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Aug 11 16:01:55 2021 -0300
+
+    Adiciona dia 5-3 e fixar-01 completo.
+
+[33mcommit c514afb73f72f461f162311213fbf6f3e03b796f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:51:04 2021 -0300
+
+    Adiciona 5-2 para README.md.
+
+[33mcommit adb2932af6ac8b14d4d72bfaba0769caf768bbb3[m
+Merge: 9afa7d7 ab0b88b
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Aug 10 18:49:49 2021 -0300
+
+    Merge pull request #9 from anniehau/exercicios/5.2
+    
+    Exercicios/5.2 - COMPLETO
+
+[33mcommit ab0b88b7988733018ee5b9a4181a7bfe9610b8db[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:48:52 2021 -0300
+
+    Exercicio 6 completo.
+
+[33mcommit 8cf2e609c3d6101f20cad1f8a1aadfdc6bca3ea1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:46:20 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 0c6b2b1970dd086679c158544af275f9f0a56349[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:45:23 2021 -0300
+
+    Exercicio 4 completo e classes arrumadas de class = x para classList.add().
+
+[33mcommit 2a89b5d294c3d91067102b2fc996206a8119e976[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:32:50 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 6a2b9a1b19fcc7a3b86416b67e409de742ac87f3[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:31:46 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit 5ffbaa3f12c1e06577d529e1b63d3fcfe84212c0[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:30:49 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit 0b4f1b999f574a3db747e90482fb37102b2223b9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:27:53 2021 -0300
+
+    Exercicio 9 completo.
+
+[33mcommit 884dcf256fb0f3a0ae015d5b1eeb16c358c22208[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:26:05 2021 -0300
+
+    Exercicio 8 completo.
+
+[33mcommit 07180e034ceb7cb574d9cae3e2e01a7a374b341e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:15:41 2021 -0300
+
+    Exercicio 7 completo.
+
+[33mcommit 5b51375ac75061bcfa44476c82beab048df6d4c6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:14:27 2021 -0300
+
+    Exercicio 6 completo.
+
+[33mcommit cdb08c70a9710c3f56837c2f206b91291380893a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:13:26 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit a9b984bdadf5eb9485abc26b69a6dbe7536349f4[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:12:21 2021 -0300
+
+    Exercicio 4 completo e tag section alterado para section_1.
+
+[33mcommit da5af3a633db7d9352f3259ddb72b1fa7b78a211[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:10:12 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 44e19b0e905abfc65b306e5e7e34d8c06b09f6b3[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:08:55 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit e6638e4ddda3b212898af07649aac4f81093c282[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 18:07:31 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit 2c36fd220d9ebd062db05851fb80f8b64c66109d[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 16:12:17 2021 -0300
+
+    Fixar-03 meio que completo, esse exercicio nao fez sentido para mim e provavelmente vou voltar no futuro.
+
+[33mcommit a9b5a2703dc32a10e9382722a88963cad7a80c30[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 15:24:42 2021 -0300
+
+    Fixar-02 completo dentro de fixar-01/index.html.
+
+[33mcommit cfd319f9e502a72a0999a9a16ec0b14e5242345f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 14:49:52 2021 -0300
+
+    Adiciona pasta do dia 5.2 com primeiro fixar terminado.
+
+[33mcommit 9afa7d740a9b98e83d59be539bffd53c82dac597[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 00:43:26 2021 -0300
+
+    Modifica link do projeto Lessons Learned.
+
+[33mcommit f148dc87a285c1524647ee6177380b0aac865bf1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 00:40:14 2021 -0300
+
+    Adiciona link para Playground Functions.
+
+[33mcommit 3c1f8cbb124e6135f1e9250f648aa15d16c89247[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 00:38:45 2021 -0300
+
+    Arruma sintaxe de README.md.
+
+[33mcommit da97349013e65c1de63575b58781fd339930ad9e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Aug 10 00:33:10 2021 -0300
+
+    Adiciona bloco 5 para README.md.
+
+[33mcommit 9d9dc0e3813e7a19808932767d85bd0666846492[m
+Merge: 37d619b 984aca3
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Tue Aug 10 00:27:54 2021 -0300
+
+    Merge pull request #8 from anniehau/b5-1/dom-e-seletores
+    
+    Dia 5-1 completo
+
+[33mcommit 984aca3750a6b229c31b2e8bce72cdd75693f029[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:24:27 2021 -0300
+
+    Exercicio 6 completo, e exercicios do dia terminados.
+
+[33mcommit ac287743c4e507ad40a64fb5d57510fc9d8128ed[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:24:10 2021 -0300
+
+    Exercicio 5 completo.
+
+[33mcommit 291a41ba116e1ede684a29f6bb424e53d70195f5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:23:58 2021 -0300
+
+    Exercicio 4 completo.
+
+[33mcommit 3aa1d442c9e5f29af2b97b6e5ede45469ae49bfb[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:23:36 2021 -0300
+
+    Exercicio 3 completo.
+
+[33mcommit 72fab64229a2c2fb283be938700e69ca25b63b24[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:23:20 2021 -0300
+
+    Exercicio 2 completo.
+
+[33mcommit fa6bc538657c0fc34a3323849a4279e40cb0ddff[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:23:00 2021 -0300
+
+    Exercicio 1 completo.
+
+[33mcommit 851dc5035034f58ae47ed55cdb0ffc3e104f235e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 16:02:46 2021 -0300
+
+    Adiciona fixar-02 com exercicio de Admininstrador de Tempo da Trybe completo.
+
+[33mcommit b1a72a3486ebaa3373dce1d6c7e826a6157e1cf6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 15:43:27 2021 -0300
+
+    Modifica toda a sintaxe por querySelector.
+
+[33mcommit 8104dd9a26468673538fbbd7994deb6b49abaef9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 15:42:54 2021 -0300
+
+    Adiciona nova sintaxes de getElementsByClassName e getElementsByTagName.
+
+[33mcommit 724a7446364ec0e8e90d3cf8625cf9c274716ca7[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 9 15:21:23 2021 -0300
+
+    Adiciona fixar-01.
+
+[33mcommit 37d619bdca92782060f9431f6cf00c3a8d51c7c9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 22:32:00 2021 -0300
+
+    Adiciona exercicio 3-2.
+
+[33mcommit 711bbf4d91a25089132a9bd2a6714c93e8741a29[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 22:05:36 2021 -0300
+
+    Adiciona exercicios bonus.
+
+[33mcommit 0ee965fa324ec73962fbea7d6886614086eeb092[m
+Merge: c12f63c f972f2c
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Aug 2 19:14:34 2021 -0300
+
+    Merge pull request #7 from anniehau/exercicios/4.4
+    
+    Exercicios/4.4 - Completos e prontos para merger
+
+[33mcommit f972f2cdb986316f2a1ad393549718523f73579e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 19:12:28 2021 -0300
+
+    Adiciona 4-3 e 4-4 para README.md.
+
+[33mcommit ff2c9b9458c558c36ec2e788804d20b35b090412[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 19:09:36 2021 -0300
+
+    Adiciona exercicios 6-7 da parte 2, terminando o dia.
+
+[33mcommit 2be1138edb9551fa6f02e72d62ef20ea253e5a7c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 18:49:37 2021 -0300
+
+    Adiciona exercicios 4-5 da parte 2.
+
+[33mcommit 846bf209bc294a9548a518a8402cefc8c520735a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 18:27:42 2021 -0300
+
+    Adiciona exercicios 1-3 da parte-2.
+
+[33mcommit e5d6a9680a4563c9f9be8f90e76f880ff564267b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 15:58:27 2021 -0300
+
+    Adiciona pastas para organizacao de exercicios.
+
+[33mcommit 88a6cdd5ae2ed7910c9c9ea39114d7133fbd5ef2[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 15:57:21 2021 -0300
+
+    Adiciona exercicios 1-5.
+
+[33mcommit 060928563672f86e061813c6f3f9822a0cd8b33b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 15:25:17 2021 -0300
+
+    Adiciona fixar-03.
+
+[33mcommit 0220db865dfa7e43b58b6027c10bb324b3733d66[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 15:04:34 2021 -0300
+
+    Adiciona fixar-02.
+
+[33mcommit e153229a1aa92a1445e41a6fb0189f8d70db382a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Aug 2 14:51:19 2021 -0300
+
+    Adiciona dia4-4 e fixar-01.
+
+[33mcommit c12f63c99220a6f08eb8614b8d3a3b6f019ec954[m
+Merge: 20889d2 2dcd181
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Fri Jul 30 19:46:28 2021 -0300
+
+    Merge pull request #6 from anniehau/exercicios/4.3
+    
+    Adiciona Exercicios do dia 4.3
+
+[33mcommit 2dcd181488887fcbbb984d1c44da805820fdfc37[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 30 19:45:17 2021 -0300
+
+    Adiciona exercicio 6 e termina o dia.
+
+[33mcommit d7dcd0e9e671bd0633a1d719d6f2d1dc2deaff57[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 30 19:24:13 2021 -0300
+
+    Adiciona exercicio 4 && 5.
+
+[33mcommit a54d6e37cfe6490611bfa2f7788b8910132938c9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 30 18:59:23 2021 -0300
+
+    Adiciona exercicio 2 && exercicio 3.
+
+[33mcommit a1b005dc31740187638ab6b05e53946cc2a3d870[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 30 18:17:03 2021 -0300
+
+    Adiciona exercicio 2.
+
+[33mcommit 4315a5bd1144633aa82c9527b06a2e3bc3399948[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 30 18:05:33 2021 -0300
+
+    Adiciona exercicio 1.
+
+[33mcommit 20889d2246d462100c375065f14495087fcf74b6[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 30 14:29:27 2021 -0300
+
+    Alteracoes pequenas em exercicio9.js.
+
+[33mcommit 6188f4765a3088e653491798790f47a2bbc54720[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 29 19:29:20 2021 -0300
+
+    Adiciona 4-2 no README.
+
+[33mcommit 9be2632d0fe46dbed88fb5972c188a0c512b2928[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 29 19:28:41 2021 -0300
+
+    Adiciona exercicios do dia 2, bloco 4.
+
+[33mcommit 493ad9f2511d9f77020b807f5667da72912d256c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 29 15:59:55 2021 -0300
+
+    Modifica link de README.md.
+
+[33mcommit 3f409ecd55d91d921a95cbc39b6f25df1e7e91c7[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 29 15:58:55 2021 -0300
+
+    Adiciona complecao de bloco 3 e inicio de bloco 4 para README.md.
+
+[33mcommit 5c888b9a182f07ae1f7cad1afd3d7b80b01a0857[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 29 15:40:27 2021 -0300
+
+    Adiciona varios exercicios de JS e atualizacao em um exercicio de CSS.
+
+[33mcommit 7bae2fe60f4395f8cae1faa2a95c60d52ca4b544[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Tue Jul 27 13:50:11 2021 -0300
+
+    Adiciona muitos elementos de estilizacao.
+
+[33mcommit d30603e52b46b288568d7bd6be2ae38dbf226f2c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 26 18:57:07 2021 -0300
+
+    Adiciona elementos de estilizacao para lista de fatos.
+
+[33mcommit 500c5547cf05cff36892c2d39664666b429acb31[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 26 18:30:59 2021 -0300
+
+    Adiciona aside para o table, footer e referencias.
+
+[33mcommit 33f0121fb7cdd125b0d5000d56bedb6788a1023b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 26 18:26:20 2021 -0300
+
+    Finaliza esqueleto da pagina com index.html.
+
+[33mcommit 960255c1fa0c43977d34edbae40ae5ce72469d9e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 26 17:51:16 2021 -0300
+
+    Adiciona fixar-01 e novo index.html+style.css para exercicios.
+
+[33mcommit 66af2cce6026efab88b2b275624073823e2128ae[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 26 16:42:29 2021 -0300
+
+    Adiciona exercicios completos do dia 04.
+
+[33mcommit 52f8a540857cb67ca8d7678c9a67e1ebfd022d11[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 17:08:34 2021 -0300
+
+    Adiciona elementos completando exercicios de fixar-05.
+
+[33mcommit ce4f7ca167a2cc048c9b75686856a3279b71f5b9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 16:13:07 2021 -0300
+
+    Adiciona elementos dentro de index.html e style.css, completando o exercicio de fixaçao 4.
+
+[33mcommit e619ad42c28138126155ac97738a550c8b679967[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 16:02:22 2021 -0300
+
+    Adiciona fixar-04, com index.html e style.css dentro.
+
+[33mcommit fc2262dcc421a569d067a9b0b5554b38bf924a56[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 16:01:44 2021 -0300
+
+    Adiciona elementos dentro de index.html e style.css, completando o exercicio de fixaçao 3.
+
+[33mcommit c7161eea8db1e2745119989faf71882a3da68b04[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 15:32:38 2021 -0300
+
+    Adiciona exercicio dentro de index.html.
+
+[33mcommit 7ced98cd7239ca738e5ef881bae56a4d4b0a16ac[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 15:31:02 2021 -0300
+
+    Adiciona fixar-03 com index.html e style.css.
+
+[33mcommit be8514093abe26f74e9dbc199f9de885e99bee9e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 15:23:07 2021 -0300
+
+    Adiciona elementos dentro de index.html e style.css, completando o exercicio de fixação 2.
+
+[33mcommit 554a6c5df5d8a3d4cb4536c46689fa5952605810[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 15:14:02 2021 -0300
+
+    Remove index.html e style.css velhos. Estão na pasta fixar-01 agora.
+
+[33mcommit e6c1a4dfc8b69d0120e385fe1857effb246c6c9b[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 15:13:15 2021 -0300
+
+    Adiciona fixar-01 e 02, index/style novos e movimenta os velhos para fixar-01.
+
+[33mcommit 4f96df03ef4a0b4f67e62578a18237d379571a25[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 23 14:55:34 2021 -0300
+
+    Adiciona dia 3.3, index.html e style.css.
+
+[33mcommit 71dc444faab8a02c991c37f2f12c42d4c6e46d43[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 22 15:37:42 2021 -0300
+
+    Adiciona checkbox do dia 3.1.
+
+[33mcommit f37c90a316c13f1e1a30e856ad48514ea778832a[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 22 15:36:53 2021 -0300
+
+    Corta o style do head para o arquivo style.css.
+
+[33mcommit 5db893746e69b5f2b3129c46375c15a689057ae3[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 22 15:27:27 2021 -0300
+
+    Edita index.html com ainda mais estilizacao de font-style, text-align, line-height e text-decoration.
+
+[33mcommit 4cdcf4e1258100e83f23b25234a322f58464098c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 22 15:23:33 2021 -0300
+
+    Edita index.html para conter extra estilizacao.
+
+[33mcommit 679d01c72780351c95708e62189087f3a7fab594[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 22 15:03:54 2021 -0300
+
+    Adiciona dia 3.2 com index.html.
+
+[33mcommit d85dc46f98e47e471e6049011ca183346eaba889[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Thu Jul 22 00:01:05 2021 -0300
+
+    Editando formatação de amigos.html.
+
+[33mcommit 83a5aa14c5c69a0c1aa582281e277a61aa955da1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Jul 21 17:45:38 2021 -0300
+
+    Atualiza amigos.html para conter comentarios e uma pequena mudança no texto.
+
+[33mcommit 64a506cb5253773dfb24f740f244f98969a62fb7[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Jul 21 17:31:01 2021 -0300
+
+    Adiciona bloco 3, dia 1 e meu primeiro HTML.
+
+[33mcommit 503cb8c51c2ae35edb436e05efce6fe4a95d9af9[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Jul 21 14:23:42 2021 -0300
+
+    Atualiza README.md para incluir o bloco 3.
+
+[33mcommit 7b5ee30f3eca3e022b3d7a49761edf3472ff687c[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Wed Jul 21 14:07:14 2021 -0300
+
+    Adiciona exercicios do 2.3.
+
+[33mcommit 3d65dd380bf9b63c8669ed0b9058be975e66f067[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:50:56 2021 -0300
+
+    2-2 terminado adicionado para README.md
+
+[33mcommit 270e06457e8422a8824c9e806a1a64335084ce40[m
+Merge: 8ef4345 f9385a8
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:46:45 2021 -0300
+
+    Merge pull request #5 from anniehau/trybe-skills-updates
+    
+    Adiciona uma nova habilidade para trybe-skills.txt
+
+[33mcommit f9385a807bf77d1f62b545b7f59a331b9ac212d5[m
+Merge: c5f70a0 8ef4345
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:45:50 2021 -0300
+
+    Merge branch 'master' into trybe-skills-updates
+
+[33mcommit 8ef43450fbd554964f2fc84313ec9d844e81528e[m
+Merge: 69a247a efe4387
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:45:04 2021 -0300
+
+    Merge pull request #4 from anniehau/trybe-skills-changes
+    
+    Adiciona duas novas habilidades para trybe-skills.txt
+
+[33mcommit c5f70a040833c3a04cb90f3e5f04ad7cb5fa9420[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:42:25 2021 -0300
+
+    Adiciona uma nova habilidade para trybe-skills.txt
+
+[33mcommit efe4387c0f92d28a7c9a0de87ec2bb4eb4b3ecbc[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:38:09 2021 -0300
+
+    Adiciona duas novas habilidades para trybe-skills.txt
+
+[33mcommit 69a247a196c1a5d30eeb1c46e5d24548e6edce9f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:35:28 2021 -0300
+
+    Mudando trybe-skills para a versão inicial.
+
+[33mcommit e8e939473f88b20171414ea23095a7f968288d9b[m
+Merge: e4862a4 9c05287
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:29:44 2021 -0300
+
+    Arrumando conflito.
+
+[33mcommit 9c05287a12bf5c02a820bf56dedb3a915258a683[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:24:16 2021 -0300
+
+    Delete 01-fundamentos/b02-github-e-internet/d02-git-e-github-entendendo-os-comandos/d02-exercicio directory
+
+[33mcommit 21b78482f0f5bd6104084ab76bf3c7d8902195e0[m
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:24:07 2021 -0300
+
+    Delete 01-fundamentos/b02-github-e-internet/d02-git-e-github-entendendo-os-comandos/d02-exercicios directory
+
+[33mcommit e4862a451203c6b37688cb5bbc3a316d871f7c6f[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:19:07 2021 -0300
+
+    Adiciona diretórios dos exercicios do dia 2.
+
+[33mcommit 051a9e3050df46211c733cd8eb556c3bf2b6c000[m
+Merge: bf11888 f133dbf
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:12:25 2021 -0300
+
+    Merge pull request #3 from anniehau/trybe-skills-updates
+    
+    Trybe skills updates
+
+[33mcommit bf118883b4721684bdd28e89943777a3460cb63e[m
+Merge: c32a6c5 86d1053
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 16:11:45 2021 -0300
+
+    Merge pull request #2 from anniehau/trybe-skills-changes
+    
+    Trybe skills changes
+
+[33mcommit f133dbf04372782d624e80d41f17da0f9456dc91[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:10:02 2021 -0300
+
+    Adiciona um aprendizado que terei nos proximos blocos.
+
+[33mcommit 95f8e95b240375df1d8c1f7a85ad89338777ae7e[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 16:07:38 2021 -0300
+
+    Adiciona pasta do dia 2 com exercicios dentro.
+
+[33mcommit c32a6c5d5b539ef1bb80f486b8bfb7457c86f867[m
+Merge: 9a52e3a b21dda1
+Author: anniehau <87545250+anniehau@users.noreply.github.com>
+Date:   Mon Jul 19 15:57:12 2021 -0300
+
+    Merge pull request #1 from anniehau/annie
+    
+    Adiciona arquivo novo na branch nova.
+
+[33mcommit 86d105311961dcf45b77346df93353bf7a908158[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 15:56:41 2021 -0300
+
+    Adiciona mais habilidades em trybe-skills.txt
+
+[33mcommit 328fa6c6f6164a72adf2cb47cf5853f3c61fbaa5[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 15:54:41 2021 -0300
+
+    Adiciona os exercicios de hoje para serem feitos.
+
+[33mcommit b21dda10ead9ceca12eb801ddffaba0753921804[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Mon Jul 19 15:43:41 2021 -0300
+
+    Adiciona arquivo novo na branch nova.
+
+[33mcommit 9a52e3a36ecf4186df127bd7128c7b2d368bd0b1[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 16 20:09:22 2021 -0300
+
+    Formatação de README.md editada (2).
+
+[33mcommit c336724c878288abd5847603a2fe4d3ed0f3a404[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 16 19:38:07 2021 -0300
+
+    Formatação de README.md editada.
+
+[33mcommit a74138537bb109b44fec86cdd7f60f016d73aadf[m
+Author: anniehau <anniehaurani@gmail.com>
+Date:   Fri Jul 16 19:29:55 2021 -0300
+
+    Adicionado pasta 01-fundamentos e README.txt.
